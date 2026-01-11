@@ -1,4 +1,4 @@
-# Energyism (EMIS)
+# EMIS Framework
 
 **EMIS — Energy · Matter · Information · Spacetime**
 
@@ -9,7 +9,7 @@ A conceptual framework for explaining how the world works.
 
 ## 1. Positioning
 
-**Energyism (EMIS) is not a new set of physical laws.  
+**EMIS is not a new set of physical laws.  
 It is an explanatory framework.**
 
 Rather than asking *what the world is made of*, EMIS focuses on a more fundamental question:
@@ -40,7 +40,7 @@ EMIS provides a unified perspective for analyzing physical, computational, biolo
 
 ## 3. The Six Core Relationships
 
-Energyism is structured around an energy-centered triangle, expanded into six fundamental relationships.
+EMIS is structured around an energy-centered triangle, expanded into six fundamental relationships.
 
 ---
 
@@ -142,14 +142,14 @@ Matter stabilizes structure.
 Information describes state.  
 Spacetime provides constraint.**
 
-In Energyism, none of these elements are reduced to another.  
+In EMIS, none of these elements are reduced to another.  
 Instead, they form a minimal closed system for explaining how systems operate and evolve.
 
 ---
 
 ## 5. Framework Statement
 
-**Energyism (EMIS) is an energy-centered explanatory framework  
+**EMIS is an energy-centered explanatory framework  
 for understanding how change is constrained, distributed, and evolved  
 across Matter, Information, and Spacetime.**
 
