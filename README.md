@@ -1,167 +1,176 @@
-# 能量主义（EMIS）
+# Energyism (EMIS)
 
-**EMIS (Energy · Matter · Information · Spacetime)**  
+**EMIS — Energy · Matter · Information · Spacetime**
+
 A conceptual framework for explaining how the world works.
 
+[Read this in Chinese (阅读中文版)](./README_zh.md)
 ---
 
-## 什么是能量主义（EMIS）
+## 1. Positioning
 
-**能量主义（EMIS）不是一套新的物理定律，而是一套解释框架。**
+**Energyism (EMIS) is not a new set of physical laws.  
+It is an explanatory framework.**
 
-它不试图回答“世界由什么构成”，而关注一个更基础的问题：
+Rather than asking *what the world is made of*, EMIS focuses on a more fundamental question:
 
-> **变化如何发生？  
-变化在什么约束下发生？  
-变化如何在能量、物质、信息与时空之间被分配与塑形？**
+> **How does change occur?  
+Under what constraints does change take place?  
+How is change distributed and shaped across Energy, Matter, Information, and Spacetime?**
 
-EMIS 通过刻画 **能量（Energy）、物质（Matter）、信息（Information）与时空（Spacetime）** 之间的核心关系，提供一种跨物理、工程、信息系统与复杂系统的统一理解视角。
-
----
-
-## 核心要素
-
-- **能量（Energy）**  
-  变化的通用计量与调控变量
-
-- **物质（Matter）**  
-  变化得以稳定存在的物理载体
-
-- **信息（Information）**  
-  系统状态及其可区分结构的描述
-
-- **时空（Spacetime）**  
-  变化展开的结构性约束与因果秩序
+EMIS provides a unified perspective for analyzing physical, computational, biological, and social systems by modeling their core structural relationships.
 
 ---
 
-## 核心结构：六大关系
+## 2. Core Elements
 
-EMIS 由一个以能量为中心的结构三角形展开，并形成六条基础关系。
+- **Energy**  
+  The universal measure and regulatory variable of change.
+
+- **Matter**  
+  The physical substrate that allows change to become stable and persistent.
+
+- **Information**  
+  The description of system states and their distinguishable structures.
+
+- **Spacetime**  
+  The structural and causal constraints within which change unfolds.
 
 ---
 
-### 1. 能量 — 物质  
-**（质能等价）**
+## 3. The Six Core Relationships
 
-物质并非独立于能量而存在；物质是在物理约束下，能量的稳定化呈现。  
-质量是能量在特定条件下被局域与守恒的表现形式。
+Energyism is structured around an energy-centered triangle, expanded into six fundamental relationships.
 
-**标注：**  
+---
+
+### 3.1 Energy — Matter  
+*(Mass–Energy Equivalence)*
+
+Matter does not exist independently of energy.  
+Matter is the stabilized manifestation of energy under physical constraints.
+
+Mass–energy equivalence reveals that mass is not a separate substance, but a form of energy localized and conserved under specific conditions. Energy determines which material structures can exist, how stable they are, and how they can transform.
+
+**Reference:**  
 Mass–Energy Equivalence (E = mc²)
 
-**核心断言：**  
-能量决定物质的存在性与稳定性。
+**Core Claim:**  
+Energy determines the existence and stability of matter.
 
 ---
 
-### 2. 能量 — 信息  
-**（兰道尔原理）**
+### 3.2 Energy — Information  
+*(Landauer’s Principle)*
 
-信息不是抽象符号，而是受能量约束的物理量。  
-任何信息的产生、变换或抹除，都具有不可约的能量成本。
+Information is not an abstract entity; it is a physical quantity constrained by energy.
 
-**标注：**  
+Any creation, transformation, or erasure of information requires an irreducible amount of energy. Thermodynamic limits define the minimum energetic cost of information processing, while entropy characterizes how information is distributed across physical state spaces.
+
+**Reference:**  
 Landauer’s Principle
 
-**核心断言：**  
-能量决定信息变化的成本与可行性。
+**Core Claim:**  
+Energy determines the cost and feasibility of information change.
 
 ---
 
-### 3. 能量 — 时空  
-**（能量-动量约束时空几何）**
+### 3.3 Energy — Spacetime  
+*(Energy–Momentum Constrains Geometry)*
 
-时空不是独立舞台，其几何结构受能量与动量分布所制约。  
-时空结构同时反过来约束能量的传播与聚集方式。
+Spacetime is not an independent stage.  
+Its geometry is constrained by the distribution of energy and momentum.
 
-**标注：**  
+At the same time, spacetime geometry constrains how energy propagates, accumulates, and interacts. Energy and spacetime are therefore mutually coupled through physical law.
+
+**Reference:**  
 Energy–momentum constrains spacetime geometry  
 (Einstein Field Equations)
 
-**核心断言：**  
-能量分布约束时空的形态与可变性。
+**Core Claim:**  
+Energy distribution constrains the form and variability of spacetime.
 
 ---
 
-### 4. 物质 — 信息  
-**（物质是信息的物理载体）**
+### 3.4 Matter — Information  
+*(Matter as the Physical Carrier of Information)*
 
-物质并不等同于信息；物质系统为信息提供物理状态空间。  
-不同物质系统定义了不同的信息形式、容量与稳定性上限。
+Matter is not information itself; matter provides the physical state space in which information exists.
 
-**核心断言：**  
-物质决定信息的容量与结构。
+Information emerges as structured patterns of distinguishable states supported by material systems. Different material substrates define different state spaces, thereby determining the form, capacity, and stability limits of information.
+
+**Core Claim:**  
+Matter determines the capacity and structure of information.
 
 ---
 
-### 5. 物质 — 时空  
-**（广义相对论核心表述）**
+### 3.5 Matter — Spacetime  
+*(Core Statement of General Relativity)*
 
-物质影响时空如何弯曲，  
-时空约束物质如何运动。
+Matter and spacetime are not separable entities; they mutually shape one another.
 
-**标注：**  
+The distribution of matter influences how spacetime curves, while spacetime geometry constrains how matter moves and remains stable.
+
+**Reference:**  
 Matter tells spacetime how to curve;  
 spacetime tells matter how to move.
 
-**核心断言：**  
-物质与时空相互塑形、共同定义可实现结构。
+**Core Claim:**  
+Matter and spacetime jointly define realizable structures.
 
 ---
 
-### 6. 信息 — 时空  
-**（信息不可逆性与时间之箭）**
+### 3.6 Information — Spacetime  
+*(Irreversibility and the Arrow of Time)*
 
-信息变化在宏观尺度上具有不可逆性。  
-这种不可逆性在系统层面体现为时间的方向性。
+Information change is irreversible at macroscopic scales.
 
-**标注：**  
-Irreversible information change defines the arrow of time
+The accumulation of irreversible information transformations manifests as temporal directionality, establishing a distinction between past and future and giving rise to causal order.
 
-**核心断言：**  
-时间方向源于信息变化的不可逆性。
+**Reference:**  
+Irreversible information change defines the arrow of time.
 
----
-
-## 综合表述
-
-> **能量调控变化，  
-物质承载结构，  
-信息刻画状态，  
-时空提供约束。**
-
-EMIS 不将物质或信息还原为能量，而是将能量视为贯穿物质、信息与时空的通用调控变量。
+**Core Claim:**  
+The direction of time emerges from irreversible information change.
 
 ---
 
-## 框架声明
+## 4. Unified Statement
 
-**能量主义（EMIS）是一套以能量为中心的解释框架，  
-用于理解变化如何在物质、信息与时空之间被约束、分配与演化。**
+> **Energy regulates change.  
+Matter stabilizes structure.  
+Information describes state.  
+Spacetime provides constraint.**
 
----
-
-## 适用范围
-
-EMIS 可用于分析：
-
-- 物理系统
-- 工程与计算系统
-- 信息处理与人工智能
-- 生物系统
-- 社会与制度系统
-- 接口与复杂系统演化
+In Energyism, none of these elements are reduced to another.  
+Instead, they form a minimal closed system for explaining how systems operate and evolve.
 
 ---
 
-## 状态
+## 5. Framework Statement
 
-This repository documents an evolving conceptual framework.  
-It does not propose new physical laws, but offers a unifying interpretive structure.
+**Energyism (EMIS) is an energy-centered explanatory framework  
+for understanding how change is constrained, distributed, and evolved  
+across Matter, Information, and Spacetime.**
 
 ---
 
-## License
+## 6. Scope of Application
 
-MIT (or choose later)
+EMIS can be applied to the analysis of:
+
+- Physical systems  
+- Engineering and computational systems  
+- Information processing and artificial intelligence  
+- Biological systems  
+- Social, institutional, and civilizational systems  
+- Interfaces and complex adaptive systems
+
+---
+
+## 7. Status
+
+This framework is conceptual and interpretive in nature.  
+It does not propose new physical laws, but provides a unified structure for understanding how existing laws interact across domains.
+
+---
