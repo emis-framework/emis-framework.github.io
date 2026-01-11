@@ -13,6 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+# 站点协议和域名
+url: "https://emis-framework.github.io" 
+# 站点子路径（由于是根目录站点，务必为空）
+baseurl: "" 
+# 对应的 GitHub 仓库
+repository: "emis-framework/emis-framework.github.io"
+
 title: EMIS Framework
 email: emis@os-question.com
 description: >- # this means to ignore newlines until "baseurl:"
