@@ -16,7 +16,7 @@ gem "tzinfo-data"
 
 # wdm 是 Windows 平台的文件监视器，用于本地开发服务器的热重载。
 # 仅在 Windows 系统上安装。
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+# gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # 如果你需要使用 GitHub Pages 不支持的自定义插件 (例如 jekyll-algolia)，
 # 你将不能依赖 GitHub Pages 的默认构建。
