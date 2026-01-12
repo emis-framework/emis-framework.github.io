@@ -32,6 +32,22 @@ github_username: emis-framework
 minimal_mistakes_skin: default
 search: true
 
+# Jekyll Collections 配置
+collections:
+  emis: # 你的集合名称
+    output: true # 确保 Jekyll 为此集合中的文件生成单独的页面
+    # 关键：定义此集合中文件的 URL 结构，包含 :lang
+    # 例如：/emis/en/preface/ 和 /emis/zh/preface/
+    permalink: /emis/:lang/:path/
+
+# Minimal Mistakes 主题配置
+minimal_mistakes_skin: "default" # 或者你正在使用的皮肤
+
+# 语言设置
+locale: "zh-CN" # 默认语言，例如中文
+lang_selector: true # 启用 Minimal Mistakes 的语言切换器
+# ... 其他配置 ...
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes

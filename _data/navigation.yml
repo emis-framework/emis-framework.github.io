@@ -1,9 +1,85 @@
+# _data/navigation.yml
+
+emis_sidebar_en: # 英文侧边栏的名称
+  - title: "[0-00] Preface"
+    url: /emis/en/preface/
+
+  - title: "[01-09] Axioms, Theorems, Methodology"
+    children:
+      - title: "01. Axiom 1: Conservation of Energy"
+        url: /emis/en/axiom-1/
+      - title: "02. Methodology Overview"
+        url: /emis/en/methodology/ # 假设你有一个 02-methodology.md
+      # ... 更多 01-09 范围的英文子项
+
+  - title: "[10-99] Core Concepts, Architecture"
+    children:
+      - title: "10. Core Concepts"
+        url: /emis/en/core-concepts/
+      - title: "11. System Architecture"
+        url: /emis/en/architecture/
+      # ... 更多 10-99 范围的英文子项
+
+  - title: "[100-999] Disciplines from EMIS Perspective"
+    children:
+      - title: "100. Physics"
+        url: /emis/en/physics/
+      - title: "101. Biology"
+        url: /emis/en/biology/
+      # ... 更多 100-999 范围的英文子项
+
+  - title: "[1000-9999] Explaining Phenomena from EMIS Perspective"
+    children:
+      - title: "1000. Big Bang"
+        url: /emis/en/big-bang/
+      # ... 更多 1000-9999 范围的英文子项
+
+emis_sidebar_zh: # 中文侧边栏的名称
+  - title: "[0-00] 前言"
+    url: /emis/zh/preface/
+
+  - title: "[01-09] 公理，定理，方法论"
+    children:
+      - title: "01. 公理1：能量守恒"
+        url: /emis/zh/axiom-1/
+      - title: "02. 方法论概述"
+        url: /emis/zh/methodology/ # 假设你有一个 02-methodology.md
+      # ... 更多 01-09 范围的中文子项
+
+  - title: "[10-99] 核心概念，架构"
+    children:
+      - title: "10. 核心概念"
+        url: /emis/zh/core-concepts/
+      - title: "11. 系统架构"
+        url: /emis/zh/architecture/
+      # ... 更多 10-99 范围的中文子项
+
+  - title: "[100-999] 从 EMIS 角度看各个学科"
+    children:
+      - title: "100. 物理学"
+        url: /emis/zh/physics/
+      - title: "101. 生物学"
+        url: /emis/zh/biology/
+      # ... 更多 100-999 范围的中文子项
+
+  - title: "[1000-9999] 从 EMIS 角度解释各种事物，现象"
+    children:
+      - title: "1000. 宇宙大爆炸"
+        url: /emis/zh/big-bang/
+      # ... 更多 1000-9999 范围的中文子项
+
+# 主导航菜单 (示例，你可以根据需要添加)
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Home"
+    url: /
+    lang: en # 指明这个导航项是英文的
+  - title: "EMIS Framework"
+    url: /emis/en/preface/ # 指向英文集合的起始页
+    lang: en
+
+  - title: "主页"
+    url: /
+    lang: zh # 指明这个导航项是中文的
+  - title: "能量主义框架"
+    url: /emis/zh/preface/ # 指向中文集合的起始页
+    lang: zh
