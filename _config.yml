@@ -50,7 +50,7 @@ lang_selector: true # 启用 Minimal Mistakes 的语言切换器
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.24.0" # 确保 @ 符号后是 Minimal Mistakes 的最新稳定版本
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -74,6 +74,7 @@ include:
 
 # Plugins (previously gems:)
 plugins:
+  - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
