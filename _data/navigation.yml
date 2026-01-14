@@ -1,85 +1,111 @@
-# _data/navigation.yml
-
-emis_sidebar_en: # 英文侧边栏的名称
-  - title: "[0-00] Preface"
-    url: /emis/en/preface/
-
-  - title: "[01-09] Axioms, Theorems, Methodology"
-    children:
-      - title: "01. Axiom 1: Conservation of Energy"
-        url: /emis/en/axiom-1/
-      - title: "02. Methodology Overview"
-        url: /emis/en/methodology/ # 假设你有一个 02-methodology.md
-      # ... 更多 01-09 范围的英文子项
-
-  - title: "[10-99] Core Concepts, Architecture"
-    children:
-      - title: "10. Core Concepts"
-        url: /emis/en/core-concepts/
-      - title: "11. System Architecture"
-        url: /emis/en/architecture/
-      # ... 更多 10-99 范围的英文子项
-
-  - title: "[100-999] Disciplines from EMIS Perspective"
-    children:
-      - title: "100. Physics"
-        url: /emis/en/physics/
-      - title: "101. Biology"
-        url: /emis/en/biology/
-      # ... 更多 100-999 范围的英文子项
-
-  - title: "[1000-9999] Explaining Phenomena from EMIS Perspective"
-    children:
-      - title: "1000. Big Bang"
-        url: /emis/en/big-bang/
-      # ... 更多 1000-9999 范围的英文子项
-
-emis_sidebar_zh: # 中文侧边栏的名称
-  - title: "[0-00] 前言"
-    url: /emis/zh/preface/
-
-  - title: "[01-09] 公理，定理，方法论"
-    children:
-      - title: "01. 公理1：能量守恒"
-        url: /emis/zh/axiom-1/
-      - title: "02. 方法论概述"
-        url: /emis/zh/methodology/ # 假设你有一个 02-methodology.md
-      # ... 更多 01-09 范围的中文子项
-
-  - title: "[10-99] 核心概念，架构"
-    children:
-      - title: "10. 核心概念"
-        url: /emis/zh/core-concepts/
-      - title: "11. 系统架构"
-        url: /emis/zh/architecture/
-      # ... 更多 10-99 范围的中文子项
-
-  - title: "[100-999] 从 EMIS 角度看各个学科"
-    children:
-      - title: "100. 物理学"
-        url: /emis/zh/physics/
-      - title: "101. 生物学"
-        url: /emis/zh/biology/
-      # ... 更多 100-999 范围的中文子项
-
-  - title: "[1000-9999] 从 EMIS 角度解释各种事物，现象"
-    children:
-      - title: "1000. 宇宙大爆炸"
-        url: /emis/zh/big-bang/
-      # ... 更多 1000-9999 范围的中文子项
-
-# 主导航菜单 (示例，你可以根据需要添加)
+# =============================================================================
+# 顶部导航 - 英文
+# =============================================================================
 main:
   - title: "Home"
     url: /
-    lang: en # 指明这个导航项是英文的
-  - title: "EMIS Framework"
-    url: /emis/en/preface/ # 指向英文集合的起始页
-    lang: en
+  - title: "EMIS"
+    url: /en/emis/0-preface/
+  - title: "About"
+    url: /en/about/
 
-  - title: "主页"
-    url: /
-    lang: zh # 指明这个导航项是中文的
-  - title: "能量主义框架"
-    url: /emis/zh/preface/ # 指向中文集合的起始页
-    lang: zh
+# =============================================================================
+# 顶部导航 - 中文
+# =============================================================================
+main_zh:
+  - title: "首页"
+    url: /zh/
+  - title: "能量主义"
+    url: /zh/emis/0-preface/
+  - title: "关于"
+    url: /zh/about/
+
+# =============================================================================
+# EMIS 侧边栏 - 英文
+# =============================================================================
+emis_en:
+  - title: "Preface"
+    children:
+      - title: "0 Preface"
+        url: /en/emis/0-preface/
+      - title: "00 Document Structure"
+        url: /en/emis/00-structure/
+
+  - title: "Axioms & Methodology"
+    children:
+      - title: "01 Axioms"
+        url: /en/emis/01-axioms/
+      - title: "02 Theorems"
+        url: /en/emis/02-theorems/
+      - title: "03 Methodology"
+        url: /en/emis/03-methodology/
+
+  - title: "Core Concepts"
+    children:
+      - title: "10 Core Triangle"
+        url: /en/emis/10-core-triangle/
+      - title: "11 Core Concepts"
+        url: /en/emis/11-core-concepts/
+
+  - title: "Disciplines"
+    children:
+      - title: "100 Physics"
+        url: /en/emis/100-physics/
+      - title: "110 Chemistry"
+        url: /en/emis/110-chemistry/
+      - title: "120 Biology"
+        url: /en/emis/120-biology/
+      - title: "130 Sociology"
+        url: /en/emis/130-sociology/
+
+  - title: "Phenomena"
+    children:
+      - title: "1000 What is Life"
+        url: /en/emis/1000-what-is-life/
+      - title: "1001 Industrial Revolution"
+        url: /en/emis/1001-industrial-revolution/
+
+# =============================================================================
+# EMIS 侧边栏 - 中文
+# =============================================================================
+emis_zh:
+  - title: "序言"
+    children:
+      - title: "0 前言"
+        url: /zh/emis/0-preface/
+      - title: "00 文档结构"
+        url: /zh/emis/00-structure/
+
+  - title: "公理与方法论"
+    children:
+      - title: "01 公理"
+        url: /zh/emis/01-axioms/
+      - title: "02 定理"
+        url: /zh/emis/02-theorems/
+      - title: "03 方法论"
+        url: /zh/emis/03-methodology/
+
+  - title: "核心概念"
+    children:
+      - title: "10 核心三角形"
+        url: /zh/emis/10-core-triangle/
+      - title: "11 核心概念"
+        url: /zh/emis/11-core-concepts/
+
+  - title: "学科视角"
+    children:
+      - title: "100 物理学"
+        url: /zh/emis/100-physics/
+      - title: "110 化学"
+        url: /zh/emis/110-chemistry/
+      - title: "120 生物学"
+        url: /zh/emis/120-biology/
+      - title: "130 社会学"
+        url: /zh/emis/130-sociology/
+
+  - title: "现象解释"
+    children:
+      - title: "1000 什么是生命"
+        url: /zh/emis/1000-what-is-life/
+      - title: "1001 工业革命"
+        url: /zh/emis/1001-industrial-revolution/

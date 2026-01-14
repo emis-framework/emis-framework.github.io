@@ -1,0 +1,57 @@
+{% comment %} 直接使用 page 变量，不要 assign {% endcomment %}
+
+<!-- 调试信息，确认后删除 -->
+<span style="background: yellow; font-size: 12px; padding: 2px 5px;">
+  lang={{ page.lang | default: "en" }} | url={{ page.url }}
+</span>
+
+<div class="lang-switch">
+  {% if page.lang == "zh" %}
+    
+    {% if page.url == "/zh/" %}
+      <a href="{{ '/' | relative_url }}" class="lang-link">EN</a>
+    {% else %}
+      <a href="{{ page.url | replace: '/zh/', '/en/' | relative_url }}" class="lang-link">EN</a>
+    {% endif %}
+    <span class="lang-current">中文</span>
+    
+  {% else %}
+    
+    <span class="lang-current">EN</span>
+    {% if page.url == "/" %}
+      <a href="{{ '/zh/' | relative_url }}" class="lang-link">中文</a>
+    {% else %}
+      <a href="{{ page.url | replace: '/en/', '/zh/' | relative_url }}" class="lang-link">中文</a>
+    {% endif %}
+    
+  {% endif %}
+</div>
+
+<style>
+.lang-switch {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-left: 1rem;
+  font-size: 0.9em;
+}
+.lang-switch .lang-link {
+  color: #52adc8;
+  text-decoration: none;
+  padding: 4px 10px;
+  border: 1px solid #52adc8;
+  border-radius: 4px;
+  transition: all 0.2s ease;
+}
+.lang-switch .lang-link:hover {
+  background: #52adc8;
+  color: #fff;
+}
+.lang-switch .lang-current {
+  font-weight: 600;
+  color: #fff;
+  padding: 4px 10px;
+  background: #494e52;
+  border-radius: 4px;
+}
+</style>

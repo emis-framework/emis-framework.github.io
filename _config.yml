@@ -1,91 +1,120 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
-# 站点协议和域名
-url: "https://emis-framework.github.io" 
-# 站点子路径（由于是根目录站点，务必为空）
-baseurl: "" 
-# 对应的 GitHub 仓库
+# =============================================================================
+# 站点基本信息
+# =============================================================================
+url: "https://emis-framework.github.io"
+baseurl: ""
 repository: "emis-framework/emis-framework.github.io"
 
-title: EMIS Framework
+title: "EMIS Framework"
+subtitle: "Energy Matter Information Space"
+description: "A framework for understanding the world from an energy perspective"
 email: emis@os-question.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
 github_username: emis-framework
-minimal_mistakes_skin: default
+twitter_username: username
+
+# =============================================================================
+# 主题配置
+# =============================================================================
+remote_theme: mmistakes/minimal-mistakes@4.27.3
+minimal_mistakes_skin: air
 search: true
+locale: "en-US"
 
-# Jekyll Collections 配置
-collections:
-  emis: # 你的集合名称
-    output: true # 确保 Jekyll 为此集合中的文件生成单独的页面
-    # 关键：定义此集合中文件的 URL 结构，包含 :lang
-    # 例如：/emis/en/preface/ 和 /emis/zh/preface/
-    permalink: /emis/:lang/:path/
-
-# Minimal Mistakes 主题配置
-minimal_mistakes_skin: "default" # 或者你正在使用的皮肤
-
-# 语言设置
-locale: "zh-CN" # 默认语言，例如中文
-lang_selector: true # 启用 Minimal Mistakes 的语言切换器
-# ... 其他配置 ...
-
-# Build settings
+# =============================================================================
+# 构建设置
+# =============================================================================
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes@4.24.0 # 确保 @ 符号后是 Minimal Mistakes 的最新稳定版本
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+kramdown:
+  input: GFM
+  hard_wrap: false
+incremental: true # 添加或修改这一行
 
-include:
-  - _pages
+# =============================================================================
+# 集合定义
+# =============================================================================
+collections:
+  emis:
+    output: true
+    permalink: /:path/
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# =============================================================================
+# 默认值设置
+# =============================================================================
+defaults:
+  # ----- 英文 EMIS 文档 -----
+  - scope:
+      path: "_emis/en"
+      type: emis
+    values:
+      layout: single
+      lang: en
+      sidebar:
+        nav: "emis_en"
+      toc: true
+      toc_sticky: true
+      toc_label: "On this page"
+      permalink: /en/emis/:name/
 
-# Plugins (previously gems:)
+  # ----- 中文 EMIS 文档 -----
+  - scope:
+      path: "_emis/zh"
+      type: emis
+    values:
+      layout: single
+      lang: zh
+      sidebar:
+        nav: "emis_zh"
+      toc: true
+      toc_sticky: true
+      toc_label: "本页目录"
+      permalink: /zh/emis/:name/
+
+  # ----- 英文页面 -----
+  - scope:
+      path: "_pages/en"
+      type: pages
+    values:
+      layout: single
+      lang: en
+
+  # ----- 中文页面 -----
+  - scope:
+      path: "_pages/zh"
+      type: pages
+    values:
+      layout: single
+      lang: zh
+
+# =============================================================================
+# 插件（GitHub Pages 支持的）
+# =============================================================================
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-last-modified-at
+
+# =============================================================================
+# 排除文件
+# =============================================================================
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
+  - LICENSE
+  - .git
+  - .github
 
 author:
-  name   : "Alex W."
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name: "Alex W."
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -102,39 +131,12 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"

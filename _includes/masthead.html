@@ -1,0 +1,72 @@
+{% capture logo_path %}{{ site.logo }}{% endcapture %}
+
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        {% unless logo_path == empty %}
+          <a class="site-logo" href="{{ '/' | relative_url }}">
+            <img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}">
+          </a>
+        {% endunless %}
+
+        <!-- 👇 根据语言显示不同标题 -->
+        {% if page.lang == "zh" %}
+          {% assign current_title = site.data.i18n.zh.site_title %}
+          {% assign home_url = "/zh/" %}
+        {% else %}
+          {% assign current_title = site.data.i18n.en.site_title %}
+          {% assign home_url = "/" %}
+        {% endif %}
+        
+        <a class="site-title" href="{{ home_url | relative_url }}">
+            {{ current_title }}
+        </a>
+        
+        <ul class="visible-links">
+          {% if page.lang == "zh" %}
+            {% for link in site.data.navigation.main_zh %}
+              <li class="masthead__menu-item">
+                <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+              </li>
+            {% endfor %}
+          {% else %}
+            {% for link in site.data.navigation.main %}
+              <li class="masthead__menu-item">
+                <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+              </li>
+            {% endfor %}
+          {% endif %}
+        </ul>
+        
+        <!-- 语言切换 - 直接写在这里 -->
+        <div class="lang-switch" style="display: inline-flex; align-items: center; gap: 0.5rem; margin-left: 1rem;">
+          {% if page.lang == "zh" %}
+            {% if page.url == "/zh/" %}
+              <a href="/" style="color: #52adc8; padding: 4px 10px; border: 1px solid #52adc8; border-radius: 4px; text-decoration: none;">EN</a>
+            {% else %}
+              <a href="{{ page.url | replace: '/zh/', '/en/' }}" style="color: #52adc8; padding: 4px 10px; border: 1px solid #52adc8; border-radius: 4px; text-decoration: none;">EN</a>
+            {% endif %}
+            <span style="font-weight: 600; color: #fff; padding: 4px 10px; background: #494e52; border-radius: 4px;">中文</span>
+          {% else %}
+            <span style="font-weight: 600; color: #fff; padding: 4px 10px; background: #494e52; border-radius: 4px;">EN</span>
+            {% if page.url == "/" %}
+              <a href="/zh/" style="color: #52adc8; padding: 4px 10px; border: 1px solid #52adc8; border-radius: 4px; text-decoration: none;">中文</a>
+            {% else %}
+              <a href="{{ page.url | replace: '/en/', '/zh/' }}" style="color: #52adc8; padding: 4px 10px; border: 1px solid #52adc8; border-radius: 4px; text-decoration: none;">中文</a>
+            {% endif %}
+          {% endif %}
+        </div>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+        
+      </nav>
+    </div>
+  </div>
+</div>

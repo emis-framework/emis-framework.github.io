@@ -1,3 +1,13 @@
+---
+# 如果你的 README.md 已经有 front matter
+# 例如 layout: default 或 title: "项目说明"
+# 那么就在这里加上 lang:
+
+lang: en # 或者你 README 的主要语言，通常是英文
+# title: "EMIS Framework 项目说明" # 如果你希望它在页面上显示标题
+# layout: default # 如果你想让它使用默认布局
+# permalink: /readme/ # 如果你希望它有特定的 URL
+---
 # EMIS Framework
 
 **EMIS — Energy · Matter · Information · Spacetime**

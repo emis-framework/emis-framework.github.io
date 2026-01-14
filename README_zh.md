@@ -1,7 +1,8 @@
 ---
 layout: single
 title: "EMIS 能量主义框架介绍"
-permalink: /zh/         # 这一行决定了你的访问网址是 xxx.github.io/zh/
+lang: zh
+# permalink: /zh/         # 这一行决定了你的访问网址是 xxx.github.io/zh/
 author_profile: false    # 是否显示左侧个人资料
 ---
 
