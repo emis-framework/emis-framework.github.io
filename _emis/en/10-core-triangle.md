@@ -9,9 +9,12 @@ lang-ref: 10-core-triangle
 
 A conceptual framework for explaining how the world works.
 
-![EMIS Core Triangle](/assets/images/10-core-triangle-en.jpg)
-
-**Figure 1. EMIS Core Triangle**
+{% include figure 
+   image_path="/assets/images/10-core-triangle-en.jpg" 
+   alt="EMIS Core Triangle" 
+   caption="Figure 1: EMIS Core Triangle" 
+   class="align-center"
+%}
 
 
 ---
@@ -191,3 +194,7 @@ This framework is conceptual and interpretive in nature.
 It does not propose new physical laws, but provides a unified structure for understanding how existing laws interact across domains.
 
 ---
+
+## 8. License
+
+MIT
