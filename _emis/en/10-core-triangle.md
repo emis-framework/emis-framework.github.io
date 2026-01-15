@@ -1,11 +1,19 @@
-
-# EMIS Framework
+---
+title: "EMIS Core Triangle"
+excerpt: ""
+doc_id: 10
+lang-ref: 10-core-triangle
+---
 
 **EMIS — Energy · Matter · Information · Spacetime**
 
 A conceptual framework for explaining how the world works.
 
-[Read this in Chinese (阅读中文版)](./README_zh.md)
+![EMIS Core Triangle](/assets/images/10-core-triangle-en.jpg)
+
+**Figure 1. EMIS Core Triangle**
+
+
 ---
 
 ## 1. Positioning
@@ -168,6 +176,14 @@ EMIS can be applied to the analysis of:
 - Interfaces and complex adaptive systems
 
 ---
+EMIS Framework does not claim that matter, information,
+or spacetime are ontologically reducible to energy.
+Energy is treated as a governing and accounting variable
+that constrains transformation and evolution,
+not as the sole substance of reality.
+
+---
+
 
 ## 7. Status
 

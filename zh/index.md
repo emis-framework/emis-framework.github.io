@@ -1,17 +1,17 @@
 ---
-layout: home
+layout: splash
 lang: zh
 title: "能量主义框架"
 permalink: /zh/
 header:
   overlay_color: "#1a1d24"
   overlay_filter: "0.6"
+  # overlay_image: /assets/images/homepage-header-zh.jpg
   actions:
     - label: "开始阅读"
       url: /zh/emis/0-preface/
-    - label: "English"
-      url: /
 excerpt: "能量主义：从能量视角理解世界"
+entries_layout: none # <-- 添加这一行来禁用最近文章列表
 ---
 
 ## 欢迎来到 EMIS 框架

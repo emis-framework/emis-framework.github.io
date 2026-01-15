@@ -1,11 +1,16 @@
-
-
-# 能量主义（EMIS）
+---
+title: "能量主义核心三角形"
+excerpt: ""
+doc_id: 10
+lang-ref: 10-core-triangle
+---
 
 **EMIS (Energy · Matter · Information · Spacetime)**  
 A conceptual framework for explaining how the world works.
 
-[Read this in English (阅读英文版)](./README.md)
+![能量主义核心三角形](/assets/images/10-core-triangle-zh.jpg)
+
+**Figure 1. 能量主义核心三角形**
 ---
 
 ## 什么是能量主义（EMIS）
@@ -155,6 +160,14 @@ EMIS 可用于分析：
 - 生物系统
 - 社会与制度系统
 - 接口与复杂系统演化
+
+---
+能量主义（EMIS Framework）并不主张
+物质、信息或时空在本体论上可被还原为能量。
+能量在此被视为一种调控与计量变量，
+用于约束系统的转化与演化，
+而非现实的唯一实体。
+
 
 ---
 

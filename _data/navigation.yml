@@ -38,7 +38,7 @@ emis_en:
       - title: "02 Theorems"
         url: /en/emis/02-theorems/
       - title: "03 Methodology"
-        url: /en/emis/03-methodology/
+        url: /en/emis/03-methodology-principles/
 
   - title: "Core Concepts"
     children:
@@ -49,12 +49,12 @@ emis_en:
 
   - title: "Disciplines"
     children:
-      - title: "100 Physics"
-        url: /en/emis/100-physics/
-      - title: "110 Chemistry"
-        url: /en/emis/110-chemistry/
-      - title: "120 Biology"
-        url: /en/emis/120-biology/
+      - title: "100 Economics"
+        url: /en/emis/100-economics/
+      - title: "110 Politics"
+        url: /en/emis/110-politics/
+      - title: "120 Philosophy"
+        url: /en/emis/120-philosophy/
       - title: "130 Sociology"
         url: /en/emis/130-sociology/
 
@@ -83,7 +83,7 @@ emis_zh:
       - title: "02 定理"
         url: /zh/emis/02-theorems/
       - title: "03 方法论"
-        url: /zh/emis/03-methodology/
+        url: /zh/emis/03-methodology-principles/
 
   - title: "核心概念"
     children:
@@ -94,12 +94,12 @@ emis_zh:
 
   - title: "学科视角"
     children:
-      - title: "100 物理学"
-        url: /zh/emis/100-physics/
-      - title: "110 化学"
-        url: /zh/emis/110-chemistry/
-      - title: "120 生物学"
-        url: /zh/emis/120-biology/
+      - title: "100 经济学"
+        url: /zh/emis/100-economics/
+      - title: "110 政治学"
+        url: /zh/emis/110-politics/
+      - title: "120 哲学"
+        url: /zh/emis/120-philosophy/
       - title: "130 社会学"
         url: /zh/emis/130-sociology/
 

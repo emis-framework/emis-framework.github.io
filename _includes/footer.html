@@ -1,0 +1,30 @@
+<div class="page__footer-follow">
+    <ul class="social-icons">
+      {% if page.lang == "zh" %}
+        {% assign t = site.data.i18n.zh %}
+      {% else %}
+        {% assign t = site.data.i18n.en %}
+      {% endif %}
+  
+      <li><strong>{{ t.follow }}:</strong></li>
+  
+      {% if site.github_username %}
+        <li>
+          <a href="https://github.com/{{ site.github_username }}" rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub
+          </a>
+        </li>
+      {% endif %}
+  
+      <li>
+        <a href="{{ '/feed.xml' | relative_url }}">
+          <i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ t.feed }}
+        </a>
+      </li>
+    </ul>
+  </div>
+  
+  <div class="page__footer-copyright">
+    &copy; {{ site.time | date: '%Y' }} {{ t.site_title }}. 
+    {{ t.powered_by }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
+  </div>

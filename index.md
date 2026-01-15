@@ -1,17 +1,17 @@
 ---
-layout: home
+layout: splash
 lang: en
 title: "EMIS Framework"
 permalink: /
 header:
   overlay_color: "#1a1d24"
   overlay_filter: "0.6"
+  # overlay_image: /assets/images/homepage-header-en.jpg
   actions:
     - label: "Get Started"
       url: /en/emis/0-preface/
-    - label: "中文版"
-      url: /zh/
 excerpt: "Energy matter information space - Understanding the world from an energy perspective"
+entries_layout: none # <-- 添加这一行来禁用最近文章列表
 ---
 
 ## Welcome to EMIS Framework

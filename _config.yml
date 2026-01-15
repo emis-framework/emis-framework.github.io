@@ -16,7 +16,7 @@ twitter_username: username
 # 主题配置
 # =============================================================================
 remote_theme: mmistakes/minimal-mistakes@4.27.3
-minimal_mistakes_skin: air
+minimal_mistakes_skin: default
 search: true
 locale: "en-US"
 
@@ -98,6 +98,12 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
   - jekyll-last-modified-at
+
+# =============================================================================
+# 包含文件
+# =============================================================================
+include:
+  - _pages # <-- 确保这一行存在！它告诉 Jekyll 不要忽略 _pages 目录
 
 # =============================================================================
 # 排除文件

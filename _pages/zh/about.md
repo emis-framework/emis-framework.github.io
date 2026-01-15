@@ -1,7 +1,7 @@
 ---
 title: "关于"
 permalink: /zh/about/
-lang: zh
+# lang: zh
 lang-ref: about
 ---
 
