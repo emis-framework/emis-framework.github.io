@@ -15,7 +15,9 @@
 
 ---
 
-> "In the final analysis, all knowledge is history; in the abstract sense, all science is mathematics; **and in the evolution of systems, all change is constrained by energy.**"
+> "In the final analysis, all knowledge is history;   
+> in the abstract sense, all science is mathematics;   
+> **and in the evolution of systems, all change is constrained by energy.**"
 
 ## 0. Developer's Note
 

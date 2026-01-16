@@ -30,8 +30,8 @@ posts_limit: 0            # 👈 或者这行
 
 ---
 
-> "In the final analysis, all knowledge is history;    
-> in the abstract sense, all science is mathematics;   
+> "In the final analysis, all knowledge is history;      
+> in the abstract sense, all science is mathematics;     
 > **and in the evolution of systems, all change is constrained by energy.**"
 
 ## 0. Developer's Note
