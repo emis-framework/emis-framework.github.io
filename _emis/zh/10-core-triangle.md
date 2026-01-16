@@ -87,8 +87,8 @@ EMIS 由一个以能量为中心的结构三角形展开，并形成六条基础
 时空结构同时反过来约束能量的传播与聚集方式。
 
 **标注：**  
-Energy–momentum constrains spacetime geometry  
-(Einstein Field Equations)
+能量-动量约束时空几何  
+(爱因斯坦场方程)
 
 **核心断言：**  
 能量分布约束时空的形态与可变性。
@@ -142,7 +142,7 @@ Energy–momentum constrains spacetime geometry
 信息刻画状态，  
 时空提供约束。**
 
-EMIS 不将物质或信息还原为能量，而是将能量视为贯穿物质、信息与时空的通用调控变量。
+能量主义（EMIS）不将物质或信息还原为能量，而是将能量视为贯穿物质、信息与时空的通用调控变量。
 
 ---
 
