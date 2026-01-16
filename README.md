@@ -1,4 +1,4 @@
-# Energyism (EMIS Framework)
+# EMIS Framework
 > **Refactoring the OS of Civilization** (Experimental v0.1.0)
 
 <div align="center">
@@ -30,7 +30,7 @@ Human civilization is caught in a pincer movement of information explosion and k
 
 ## 2. Core Hypothesis
 
-**Energyism (EMIS)** proposes a core hypothesis:
+**EMIS** proposes a core hypothesis:
 
 > The evolution of all social systems is essentially the continuous optimization of **energy capture and utilization efficiency** under the constraints of physical laws (such as thermodynamics).
 
@@ -38,7 +38,7 @@ Human civilization is caught in a pincer movement of information explosion and k
 
 To verify this hypothesis, we have constructed a triangular structure centered on energy:
 
-![Energyism Core Triangle](/assets/images/10-core-triangle-en.jpg)
+![EMIS Core Triangle](/assets/images/10-core-triangle-en.jpg)
 
 *   **Energy**: The **central** driving force and regulation variable of the system.
 *   **Matter**: The physical carrier of change (Hardware).
@@ -68,8 +68,9 @@ We attempt to perform a "Code Refactoring" on humanities and social sciences:
     │   ├── 01-axioms/
     │   └── 10-core-triangle/
     └── zh/             # Chinese Docs
+```
 
 ## 6. How to Contribute
 - Submit an Issue: If you find logical loopholes or inconsistencies.
 - Pull Request: If you want to contribute a more precise definition for a specific discipline.
-- Discussions: If you want to explore the application of Energyism in the real world (e.g., AI, Energy Crisis).
+- Discussions: If you want to explore the application of EMIS in the real world (e.g., AI, Energy Crisis).

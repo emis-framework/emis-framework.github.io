@@ -5,6 +5,7 @@ doc_id: 00
 lang-ref: 00-structure 
 ---
 
+---
 This document outlines the fundamental structure of the EMIS Framework documentation.
 
 | Index Range | Content Category                           | Description                                                                                                   |

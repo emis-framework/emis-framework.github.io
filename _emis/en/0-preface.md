@@ -6,8 +6,7 @@ lang-ref: 0-preface
 ---
 
 
-# EMIS Framework 
-## Preface · Origin
+---
 
 **EMIS Framework** is a unified explanatory framework centered on **energy**.
 
