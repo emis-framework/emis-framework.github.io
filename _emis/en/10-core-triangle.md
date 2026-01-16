@@ -169,14 +169,18 @@ across Matter, Information, and Spacetime.**
 
 ## 6. Scope of Application
 
-EMIS can be applied to the analysis of:
+At its current stage, EMIS Framework is primarily applied to
+selected domains within the social sciences,
+where energetic constraints, structural costs,
+and information flows are explicitly observable, including:
 
-- Physical systems  
-- Engineering and computational systems  
-- Information processing and artificial intelligence  
-- Biological systems  
-- Social, institutional, and civilizational systems  
-- Interfaces and complex adaptive systems
+- Economics
+- Sociology
+- Political Economy and Institutional Analysis
+
+These domains serve as the initial testing ground
+for the framework before potential extension
+to other disciplinary systems.
 
 ---
 EMIS Framework does not claim that matter, information,

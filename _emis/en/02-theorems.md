@@ -24,6 +24,13 @@ one of the most influential statisticians of the modern era.
 They appear on the front matter of his work *Statistics and Truth* and articulate a concise structural view of how knowledge, science, and judgement operate.
 
 ---
+The Rao Theorems are not derived within the EMIS Framework.
+They are treated as an established epistemic synthesis.
+
+EMIS focuses not on their proof,
+but on explaining why such patterns recur across disciplines.
+
+---
 
 ### Theorem I · Knowledge as History
 

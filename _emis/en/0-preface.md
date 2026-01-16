@@ -27,14 +27,24 @@ Like Euclidean geometry, EMIS Framework aims to construct a comprehensive theore
 
 ## Scope
 
-The scope of EMIS Framework covers disciplines defined in the  
-**UNESCO ISCED-F (Fields of Education and Training 2013)** classification standard.
+The initial scope of EMIS Framework focuses on
+**the social sciences**,
+where systemic constraints, information flows,
+and energetic costs are explicitly observable.
+
+Over time, the framework aims to extend toward
+broader disciplinary domains defined in the
+**UNESCO ISCED-F (Fields of Education and Training 2013)**
+classification system.
 
 ---
 
 ## Time Horizon
 
-Potentially lifelong.
+EMIS Framework is conceived as a
+**long-term, evolving theoretical framework**,
+with its structure, formulation, and scope
+subject to continuous refinement through research and application.
 
 ---
 
