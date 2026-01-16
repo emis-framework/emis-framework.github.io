@@ -44,8 +44,8 @@ emis_en:
     children:
       - title: "10 Core Triangle"
         url: /en/emis/10-core-triangle/
-      - title: "11 Core Concepts"
-        url: /en/emis/11-core-concepts/
+      - title: "20 Money"
+        url: /en/emis/20-money/
 
   - title: "Disciplines"
     children:
@@ -89,8 +89,8 @@ emis_zh:
     children:
       - title: "10 核心三角形"
         url: /zh/emis/10-core-triangle/
-      - title: "11 核心概念"
-        url: /zh/emis/11-core-concepts/
+      - title: "20 金钱"
+        url: /zh/emis/20-money/
 
   - title: "学科视角"
     children:
