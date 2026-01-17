@@ -23,7 +23,7 @@ entries_layout: none # <-- 添加这一行来禁用最近文章列表
 [![Status](https://img.shields.io/badge/status-experimental-orange)]()
 [![Version](https://img.shields.io/badge/version-0.1.0-blue)]()
 
-[👉 **在线阅读完整文档**](https://emis-framework.github.io/zh/)
+[👉 **在线阅读完整框架**](https://emis-framework.github.io/zh/)
 
 </div>
 

@@ -24,7 +24,7 @@ posts_limit: 0            # 👈 或者这行
 [![Status](https://img.shields.io/badge/status-experimental-orange)]()
 [![Version](https://img.shields.io/badge/version-0.1.0-blue)]()
 
-[👉 **Read the Full Docs**](https://emis-framework.github.io/)
+[👉 **Read the Full Framework**](https://emis-framework.github.io/)
 
 </div>
 
