@@ -1,0 +1,31 @@
+{
+    "title": "EMIS Framework",
+    "creators": [
+      {
+        "name": "Wang, Fei-Yun",
+        "affiliation": "Independent Researcher",
+        "orcid": "0009-0005-7549-2251"
+      }
+    ],
+    "description": "<p><strong>EMIS Framework (Energy · Matter · Information · Spacetime)</strong>  — a unified structural perspective for understanding physical and social systems through a single invariant: energy under constraint.</p>",
+    "license": "MIT",
+    "upload_type": "publication",
+    "publication_type": "workingpaper",
+    "keywords": [
+        "Thermodynamics",
+        "Social Physics",
+        "Systems Theory",
+        "Economics",
+        "First Principles",
+        "Sociology"
+  ],
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/emis-framework/emis-framework.github.io",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    }
+  ]
+}
