@@ -51,19 +51,15 @@ emis_en:
     children:
       - title: "100 Economics"
         url: /en/emis/100-economics/
-      - title: "110 Politics"
-        url: /en/emis/110-politics/
-      - title: "120 Philosophy"
-        url: /en/emis/120-philosophy/
-      - title: "130 Sociology"
-        url: /en/emis/130-sociology/
+      - title: "150 Sociology"
+        url: /en/emis/150-sociology/
+      - title: "200 Politics"
+        url: /en/emis/200-politics/
 
   - title: "Phenomena"
     children:
-      - title: "1000 What is Life"
-        url: /en/emis/1000-what-is-life/
-      - title: "1001 Industrial Revolution"
-        url: /en/emis/1001-industrial-revolution/
+      - title: "1000 What is Bitcoin"
+        url: /en/emis/1000-bitcoin/
 
 # =============================================================================
 # EMIS 侧边栏 - 中文
@@ -96,16 +92,12 @@ emis_zh:
     children:
       - title: "100 经济学"
         url: /zh/emis/100-economics/
-      - title: "110 政治学"
-        url: /zh/emis/110-politics/
-      - title: "120 哲学"
-        url: /zh/emis/120-philosophy/
-      - title: "130 社会学"
-        url: /zh/emis/130-sociology/
+      - title: "150 社会学"
+        url: /zh/emis/150-sociology/
+      - title: "200 政治学"
+        url: /zh/emis/200-politics/
 
   - title: "现象解释"
     children:
-      - title: "1000 什么是生命"
-        url: /zh/emis/1000-what-is-life/
-      - title: "1001 工业革命"
-        url: /zh/emis/1001-industrial-revolution/
+      - title: "1000 什么是比特币"
+        url: /zh/emis/1000-bitcoin/
