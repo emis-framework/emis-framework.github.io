@@ -1,59 +1,93 @@
 # EMIS Framework
-> **Refactoring the OS of Civilization** (Experimental v0.1.0)
+> **A Unified Energy-Based Framework for Understanding Social Systems**  
+> *(Experimental v0.1.1)*
 
 <div align="center">
 
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Status](https://img.shields.io/badge/status-experimental-orange)]()
-[![Version](https://img.shields.io/badge/version-0.1.0-blue)]()
+[![Version](https://img.shields.io/badge/version-0.1.1-blue)]()
 
 [ **English** ](README.md) | [ 中文 ](README_zh.md)
 
-[👉 **Read the Full Docs**](https://emis-framework.github.io/)
+[👉 **Read the Full Documentation**](https://emis-framework.github.io/)
 
 </div>
 
 ---
 
-> "In the final analysis, all knowledge is history;   
-> in the abstract sense, all science is mathematics;   
-> **and in the evolution of systems, all change is constrained by energy.**"
+> “In the evolution of systems,  
+> all change is constrained by energy.”
 
-## 0. Developer's Note
+---
 
-This is an ongoing **Experimental Framework**.
-We realize that the complexity of human civilization far exceeds the description of any single model. This repository does not attempt to provide "Ultimate Truth," but tries to propose an observational perspective based on **First Principles**.
+## 0. Developer’s Note
 
-We are aware that the current logic likely contains numerous `Bugs` and cognitive blind spots. Therefore, we sincerely invite physicists, sociologists, geeks, and thinkers from all walks of life to help **Debug** (find logical loopholes) and submit your **PRs** (Pull Requests).
+EMIS is an **experimental analytical framework**.  
+It does not claim to provide ultimate truths, normative prescriptions, or closed-form answers about human civilization.
 
-## 1. The Crisis
+Instead, EMIS proposes a **first-principles observational perspective**:  
+to examine social, economic, and political systems under a unified set of **physical and energetic constraints**.
 
-Human civilization is caught in a pincer movement of information explosion and knowledge fragmentation. Sociology, economics, political science... these disciplines are often isolated on their own islands. We possess the computing power to process massive amounts of data, yet we lack a **unified, quantifiable low-level interface** to connect this fragmented knowledge.
+We fully acknowledge that this framework is incomplete and subject to revision.  
+Contributions, critiques, and formal objections are not only welcome, but necessary for its evolution.
+
+---
+
+## 1. The Problem
+
+Modern civilization faces a paradox:
+
+- Unprecedented data availability and computational power  
+- Increasing fragmentation of knowledge across disciplines  
+
+Economics, sociology, political science, and related fields often operate in parallel, with incompatible primitives and limited interoperability.
+
+What is missing is a **shared low-level analytical interface**—  
+a variable that is both **physically grounded** and **socially operative**.
+
+---
 
 ## 2. Core Hypothesis
 
-**EMIS** proposes a core hypothesis:
+**EMIS** advances the following hypothesis:
 
-> The evolution of all social systems is essentially the continuous optimization of **energy capture and utilization efficiency** under the constraints of physical laws (such as thermodynamics).
+> **The evolution of social systems is driven by the optimization of energy capture, allocation, and utilization under physical, informational, and institutional constraints.**
 
-## 3. The Core Architecture
+This hypothesis is **descriptive**, not normative.  
+It explains *how systems evolve*, not *how they should evolve*.
 
-To verify this hypothesis, we have constructed a triangular structure centered on energy:
+---
+
+## 3. Core Architecture
+
+To operationalize this hypothesis, EMIS adopts a unified structural lens:
 
 ![EMIS Core Triangle](/assets/images/10-core-triangle-en.jpg)
 
-*   **Energy**: The **central** driving force and regulation variable of the system.
-*   **Matter**: The physical carrier of change (Hardware).
-*   **Information**: The arrangement protocol of change (Software).
-*   **Spacetime**: The stage and boundary where change occurs.
+- **Energy** — the fundamental driver and limiting variable of change  
+- **Matter** — the physical substrate that stores and transmits energy  
+- **Information** — the structural and rule-based organization of states  
+- **Spacetime** — the boundary conditions under which all processes occur  
 
-## 4. Experimental Goals
+Together, these four dimensions define the **constraint space** within which all social systems operate.
 
-We attempt to perform a "Code Refactoring" on humanities and social sciences:
+---
 
-*   **Refactoring**: Attempt to rewrite 240+ core vocabulary terms (e.g., Power, Currency, Law) as functions of E-M-I-S.
-*   **Alignment**: Observe the projection of physical laws (e.g., Landauer's Principle, Entropy) in social evolution.
-*   **Open Source**: This framework is completely open source. If you believe a definition in a specific discipline is incorrect, please Fork it and submit your optimized version.
+## 4. Scope and Objectives
+
+EMIS does not replace existing disciplines.  
+Its objective is to **establish structural equivalence** across them.
+
+Specifically, EMIS aims to:
+
+- Provide a **common analytical substrate** shared by economics, sociology, and political science  
+- Reinterpret core social concepts (e.g., money, power, institutions) as **energy-constrained structures**  
+- Reduce explanatory redundancy by identifying invariant patterns across scales  
+
+The framework is intentionally minimal, extensible, and open-ended.
+
+---
 
 ## 5. Repository Structure
 
@@ -72,7 +106,24 @@ We attempt to perform a "Code Refactoring" on humanities and social sciences:
     └── zh/             # Chinese Docs
 ```
 
-## 6. How to Contribute
+---
+
+## 6. Citation & Attribution
+
+If you reference or build upon this work, please cite:
+
+> EMIS Framework v0.1.1  
+> Zenodo. https://doi.org/10.5281/zenodo.18287640
+
+This repository is released under the MIT License and is intended for open academic use.
+Attribution preserves conceptual clarity and scholarly continuity.
+
+---
+
+## 7. How to Contribute
 - Submit an Issue: If you find logical loopholes or inconsistencies.
 - Pull Request: If you want to contribute a more precise definition for a specific discipline.
-- Discussions: If you want to explore the application of EMIS in the real world (e.g., AI, Energy Crisis).
+- Discussions: If you want to explore implications, limitations, and extensions
+
+EMIS is not finished.
+It is a hypothesis under construction.
