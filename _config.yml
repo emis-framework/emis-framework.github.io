@@ -113,14 +113,16 @@ exclude:
   - Gemfile.lock
   - vendor
   - README.md
+  - README_zh.md
   - LICENSE
   - .git
   - .github
+  - draftes/
 
 author:
   name: "Alex W."
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "My awesome biography constrained to a sentence or two goes here."
+  bio: "EMIS Framework."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

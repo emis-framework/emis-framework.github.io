@@ -46,6 +46,10 @@ emis_en:
         url: /en/emis/10-core-triangle/
       - title: "20 Money"
         url: /en/emis/20-money/
+      - title: "21 Sciencs and Technology"
+        url: /en/emis/21-science-and-technolgy/
+      - title: "22 Structure"
+        url: /en/emis/22-structure/
 
   - title: "Disciplines"
     children:
@@ -87,6 +91,10 @@ emis_zh:
         url: /zh/emis/10-core-triangle/
       - title: "20 金钱"
         url: /zh/emis/20-money/
+      - title: "21 科学和技术"
+        url: /zh/emis/21-science-and-technolgy/
+      - title: "22 结构"
+        url: /zh/emis/22-structure/
 
   - title: "学科视角"
     children:

@@ -74,7 +74,8 @@ Together, these four dimensions define the **constraint space** within which all
 
 ---
 
-## 4. Scope and Objectives
+## 4. Scope, Positioning
+### Scope
 
 EMIS does not replace existing disciplines.  
 Its objective is to **establish structural equivalence** across them.
@@ -87,7 +88,13 @@ Specifically, EMIS aims to:
 
 The framework is intentionally minimal, extensible, and open-ended.
 
----
+### Positioning
+
+EMIS is a constraint-level framework that specifies the energetic, material, informational, and spacetime boundaries within which social theories operate, without prescribing dynamics, behaviors, or normative outcomes.
+
+EMIS should not be interpreted as a variant of institutional economics, complexity economics, or econophysics. While it shares surface-level vocabulary with these approaches, its analytical target is distinct: EMIS operates at the level of systemic feasibility constraints rather than behavioral explanation, dynamic modeling, or empirical fitting.
+
+
 
 ## 5. Repository Structure
 
@@ -103,6 +110,7 @@ The framework is intentionally minimal, extensible, and open-ended.
     │   ├── 00-introduction/
     │   ├── 01-axioms/
     │   └── 10-core-triangle/
+    │   └── .../
     └── zh/             # Chinese Docs
 ```
 
