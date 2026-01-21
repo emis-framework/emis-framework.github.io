@@ -30,6 +30,8 @@ emis_en:
         url: /en/emis/0-preface/
       - title: "00 Document Structure"
         url: /en/emis/00-structure/
+      - title: "000 System Architecture"
+        url: /en/emis/000-architecture/
 
   - title: "Axioms & Methodology"
     children:
@@ -53,13 +55,33 @@ emis_en:
 
   - title: "Disciplines"
     children:
-      - title: "100 Economics"
+      - title: "100 Economics Index"
         url: /en/emis/100-economics/
-      - title: "150 Sociology"
+      - title: "150 Sociology Index"
         url: /en/emis/150-sociology/
-      - title: "200 Politics"
+      - title: "200 Politics Index"
         url: /en/emis/200-politics/
-      - title: "900 Humanities"
+      - title: "250 Psychology Index"
+        url: /en/emis/250-psychology/
+      - title: "300 History Index"
+        url: /en/emis/300-history/
+      - title: "350 Anthropology Index"
+        url: /en/emis/350-anthropology/
+      - title: "400 Law Index"
+        url: /en/emis/400-law/
+      - title: "450 Media Index"
+        url: /en/emis/450-media/
+      - title: "500 Geography Index"
+        url: /en/emis/500-geography/
+      - title: "550 Management Index"
+        url: /en/emis/550-management/
+      - title: "600 Linguistics Index"
+        url: /en/emis/600-linguistics/
+      - title: "650 Education Index"
+        url: /en/emis/650-education/
+      - title: "700 Ethics Index"
+        url: /en/emis/700-ethics/
+      - title: "900 Humanities Index"
         url: /en/emis/900-humanities/
       - title: "901 Beauty"
         url: /en/emis/901-beauty/
@@ -79,6 +101,8 @@ emis_zh:
         url: /zh/emis/0-preface/
       - title: "00 文档结构"
         url: /zh/emis/00-structure/
+      - title: "000 系统架构"
+        url: /zh/emis/000-architecture/
 
   - title: "公理与方法论"
     children:
@@ -102,13 +126,33 @@ emis_zh:
 
   - title: "学科视角"
     children:
-      - title: "100 经济学"
+      - title: "100 经济学索引"
         url: /zh/emis/100-economics/
-      - title: "150 社会学"
+      - title: "150 社会学索引"
         url: /zh/emis/150-sociology/
-      - title: "200 政治学"
+      - title: "200 政治学索引"
         url: /zh/emis/200-politics/
-      - title: "900 人文学科"
+      - title: "250 心理学索引"
+        url: /zh/emis/250-psychology/
+      - title: "300 历史学索引"
+        url: /zh/emis/300-history/
+      - title: "350 人类学索引"
+        url: /zh/emis/350-anthropology/
+      - title: "400 法律学索引"
+        url: /zh/emis/400-law/
+      - title: "450 传媒学索引"
+        url: /zh/emis/450-media/
+      - title: "500 地理学索引"
+        url: /zh/emis/500-geography/
+      - title: "550 管理学索引"
+        url: /zh/emis/550-management/
+      - title: "600 语言学索引"
+        url: /zh/emis/600-linguistics/
+      - title: "650 教育学索引"
+        url: /zh/emis/650-education/
+      - title: "700 伦理学索引"
+        url: /zh/emis/700-ethics/
+      - title: "900 人文学科索引"
         url: /zh/emis/900-humanities/
       - title: "901 美"
         url: /zh/emis/901-beauty/

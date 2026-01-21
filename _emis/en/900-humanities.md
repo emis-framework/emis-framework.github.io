@@ -1,9 +1,11 @@
 ---
-title: "900 Humanities Structural Mapping"
+title: "900 Humanities Index"
 excerpt: "Compressing the 'Last Stand' of Humanities into the EMIS Coordinate System"
 doc_id: 900
 lang-ref: 900-humanities
 ---
+
+Humanities Structural Mapping
 
 ## Objective:
 

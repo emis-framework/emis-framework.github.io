@@ -1,14 +1,16 @@
 ---
-title: "900 人文学科结构化映射 (Humanities Structural Mapping)"
+title: "900 人文学科索引"
 excerpt: ""
 doc_id: 900
 lang-ref: 900-humanities
 ---
 
+人文学科结构化映射 (Humanities Structural Mapping)
+
 ## 目的：
 > 旨在为人文学科提供**物理与信息论的底层锚点**。不是否定其存在，而是揭示其运行机制。  
 
-## EMIS 终结索引（Humanities Compression Index）
+## EMIS 索引映射表（Humanities Compression Index）
 
 | 人文学科核心概念      | 传统解释角色       | EMIS 中的真实位置          | 状态              |
 | --------------------- | ------------------ | -------------------------- | ----------------- |

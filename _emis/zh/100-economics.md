@@ -1,120 +1,224 @@
 ---
-title: "100 经济学索引（生成式）"
-excerpt: "Economics Rewritten as Energy-Structure Functions"
+title: "100 经济学索引 (Economics Index)"
+excerpt: "基于 EMIS 框架的经济学核心概念生成式重定义"
 doc_id: 100
-lang-ref: 100-economics-index
+lang-ref: 100-economics
 ---
 
-# 100 经济学索引（生成式）
-
-> 本索引不是对既有经济学术语的再解释，  
-> 而是将其**重写为 EMIS 框架下的结构性派生变量**。
-
-> 经济学不是关于“钱”，  
+> 基于 **EMIS Framework (能量主义) v0.2.0**
+>
+> 经济学不是关于“钱”，
 > 而是关于 **能量如何在结构中被分配、延迟与放大**。
 
 ---
 
-## 定义原则（重要）
+# 经济学索引 - 20 核心词汇
 
-- 每一个概念 = 一个**结构性结果**
-- 不使用偏好、理性、福利等心理假设
-- 所有概念 **必须可由能量流 + 约束 + 时间 推导**
-
----
-
-## 一、核心经济变量（Energy–Money Layer）
-
-### 1. 价格（Price）
-→ 在既定结构中，**调动一单位可用能量的即时结算比率**。
-
-### 2. 成本（Cost）
-→ 为实现某一结构路径，**必须放弃的其他能量使用可能性**。
-
-### 3. 收入（Income）
-→ 单位时间内，**可持续流入的能量结算额度**。
-
-### 4. 储蓄（Saving）
-→ 被延迟使用、但仍受结构保护的**已结算能量**。
-
-### 5. 投资（Investment）
-→ 将当前能量预算，**转换为未来更大能量流的结构性尝试**。
+> 本索引不试图“解释现实经济现象”，
+> 而是**替换经济学的底层变量体系**。
+>
+> 从「偏好、效用、均衡」
+> 切换为
+> **能量、结构、时间筛选**。
 
 ---
 
-## 二、时间与不确定性结构（Time–Risk Layer）
+## 1.【通胀 Inflation】
 
-### 6. 利率（Interest Rate）
-→ 跨时间调用能量时，**对不确定性与延迟的定价函数**。
+*   **传统定义**：价格水平持续上升，归因于货币供给或需求。
+*   **EMIS 定义**：**符号层（Token Layer）**与**物理能量层（Physical Energy Layer）**的脱钩。
+*   **EMIS 伪代码**：
+    ```python
+    def is_inflation(economy):
+        # 通胀 = 符号增量 > 物理捕获增量
+        return d(Token_Supply) / dt > d(Real_Energy_Capture) / dt
+    ```
 
-### 7. 折现（Discounting）
-→ 将未来能量流，**压缩为当前可比尺度的结构操作**。
+## 2.【货币 Money】
 
-### 8. 风险（Risk）
-→ 能量路径在未来结构中**无法兑现的概率密度**。
+*   **传统定义**：交换媒介，价值储藏。
+*   **EMIS 定义**：跨时间、跨结构调用能量的通用**接口 (Interface)**。
+*   **EMIS 伪代码**：
+    ```typescript
+    interface Money {
+        // 货币是对未来能量的索取权
+        claim_energy(amount: number, time: Future): Energy;
+    }
+    ```
 
-### 9. 不确定性（Uncertainty）
-→ 能量路径本身尚未结构化、**无法定价的状态空间**。
+## 3.【价格 Price】
 
----
+*   **传统定义**：供需均衡点。
+*   **EMIS 定义**：在特定结构中获取能量的**阻抗 (Impedance)** 信号。
+*   **EMIS 伪代码**：
+    ```python
+    Price = Energy_Cost / Structural_Efficiency
+    # 结构效率低 -> 价格高（高阻抗）
+    ```
 
-## 三、生产与结构（Structure–Technology Layer）
+## 4.【价值 Value】
 
-### 10. 生产（Production）
-→ 在结构约束下，**将能量转化为稳定物质与信息配置的过程**。
+*   **传统定义**：效用或主观偏好。
+*   **EMIS 定义**：某一结构**降低局部熵 (节省能量)** 的能力。
+*   **EMIS 伪代码**：
+    ```python
+    Value(structure) = -d(Entropy_Local) / dt
+    # 价值即负熵率
+    ```
 
-### 11. 技术（Technology）
-→ 已知结构的**可复制能量调度路径集合**。
+## 5.【效率 Efficiency】
 
-### 12. 生产率（Productivity）
-→ 单位结构下，**能量转化为可用结果的效率**。
+*   **传统定义**：资源的最优配置。
+*   **EMIS 定义**：功能输出与能量耗散之比。
+*   **EMIS 伪代码**：
+    ```python
+    Efficiency = Function_Output / (Energy_Input + Heat_Loss)
+    ```
 
-### 13. 分工（Division of Labor）
-→ 通过结构拆分，**降低单位能量的协调与认知成本**。
+## 6.【增长 Growth】
 
----
+*   **传统定义**：GDP 上升。
+*   **EMIS 定义**：系统对能量流进行**结构化**能力的提升。
+*   **EMIS 伪代码**：
+    ```python
+    Growth = d(Structured_Energy_Stock) / dt
+    # 增长不仅是流量，更是存量的结构化
+    ```
 
-## 四、资本与增长（Capital–Dynamics Layer）
+## 7.【生产 Production】
 
-### 14. 资本（Capital）
-→ 能够**持续产生正向能量流**的结构性配置。
+*   **传统定义**：劳动和资本创造产品。
+*   **EMIS 定义**：消耗**能量**，将**信息**编码进**物质**的过程。
+*   **EMIS 伪代码**：
+    ```python
+    Production(Raw_Matter, Info) -> Structured_Matter:
+        consume(Energy)
+        return Matter.inject(Info)
+    ```
 
-### 15. 资本积累（Capital Accumulation）
-→ 正反馈结构下，**能量控制权的时间集中过程**。
+## 8.【消费 Consumption】
 
-### 16. 增长（Growth）
-→ 社会系统中，**可被结构化并调用的总能量上限上升**。
+*   **传统定义**：使用产品和服务。
+*   **EMIS 定义**：存储在结构中的能量**释放**为热（耗散）的过程。
+*   **EMIS 伪代码**：
+    ```python
+    Consumption(Structure) -> Heat:
+        Entropy += Structure.dissolve()
+    ```
 
-### 17. 衰退（Recession）
-→ 既有结构无法继续承载原有能量流的**系统性降速**。
+## 9.【储蓄 Saving】
 
----
+*   **传统定义**：未消费的收入。
+*   **EMIS 定义**：为未来分配而存储的**潜势 (Latent Potential)**。
+*   **EMIS 伪代码**：
+    ```python
+    Saving = integral(Energy_Capture - Energy_Dissipation, dt)
+    ```
 
-## 五、分配与失衡（Distribution–Failure Layer）
+## 10.【投资 Investment】
 
-### 18. 不平等（Inequality）
-→ 能量预算在结构中的**非对称稳定分布**。
+*   **传统定义**：投入资本以获利。
+*   **EMIS 定义**：注入能量以构建更高阶的**负熵结构**。
+*   **EMIS 伪代码**：
+    ```python
+    Investment(Energy) -> New_Structure:
+        if New_Structure.efficiency > Current_Structure.efficiency:
+            return Profit
+    ```
 
-### 19. 通胀（Inflation）
-→ 名义能量预算扩张快于**真实可调用能量**的结构性失配。
+## 11.【资本 Capital】
 
-### 20. 金融危机（Financial Crisis）
-→ 能量结算约束被集体触发后，  
-→ **结构性能量清算与路径重置事件**。
+*   **传统定义**：生产资料。
+*   **EMIS 定义**：一种已结晶的、能捕获外部能量流的**结构 (Structure)**。
+*   **EMIS 伪代码**：
+    ```typescript
+    class Capital extends Structure {
+        capture_energy(environment): Flow;
+    }
+    ```
 
----
+## 12.【劳动 Labor】
 
-## 结语（为 101–120 铺路）
+*   **传统定义**：人的生产活动。
+*   **EMIS 定义**：将化学能转化为物理功的生物**接口 (API)**。
+*   **EMIS 伪代码**：
+    ```python
+    Labor = Bio_System.execute(Work_Command)
+    ```
 
-以上 20 个概念不是“经济学观点”，  
-而是 **同一套社会能量系统在不同维度下的函数输出**。
+## 13.【技术 Technology】
 
-在 EMIS 中：
+*   **传统定义**：科学知识的应用。
+*   **EMIS 定义**：一种最小化能量路径**阻力 (Resistance)** 的算法。
+*   **EMIS 伪代码**：
+    ```python
+    Technology = minimize(Path_Resistance(Energy_Source, Goal))
+    ```
 
-> **经济学 =  
-> 对能量在结构中  
-> 如何被计量、延迟、放大与失配的系统性描述。**
+## 14.【市场 Market】
 
-接下来的 `[101–120]`，  
-将逐个把这些“结构句”，  
-展开为 **可计算、可对比、可证伪的生成模型**。
+*   **传统定义**：买卖场所。
+*   **EMIS 定义**：一种分布式的**信号同步 (Signal Synchronization)** 协议。
+*   **EMIS 伪代码**：
+    ```python
+    Market = Distributed_Network.sync(Signal_Price)
+    ```
+
+## 15.【竞争 Competition】
+
+*   **传统定义**：争夺利润。
+*   **EMIS 定义**：结构间为了**最大化能量捕获**而进行的演化筛选压力。
+*   **EMIS 伪代码**：
+    ```python
+    while True:
+        if Structure_A.capture_rate > Structure_B.capture_rate:
+            Structure_B.die() # 自然选择
+    ```
+
+## 16.【垄断 Monopoly】
+
+*   **传统定义**：独家控制。
+*   **EMIS 定义**：在能量源周围建立的人为**高阻抗壁垒**。
+*   **EMIS 伪代码**：
+    ```python
+    Monopoly = Barrier(Energy_Source).set_permission(Only_Me)
+    ```
+
+## 17.【风险 Risk】
+
+*   **传统定义**：损失的可能性。
+*   **EMIS 定义**：未来能量回收路径的**熵 (不确定性)**。
+*   **EMIS 伪代码**：
+    ```python
+    Risk = Entropy(Future_Energy_Paths)
+    # 熵越高 = 不可预测性越高
+    ```
+
+## 18.【不平等 Inequality】
+
+*   **传统定义**：分配不均。
+*   **EMIS 定义**：乘性能量系统（Yakovenko）中**帕累托分布**的必然数学结果。
+*   **EMIS 伪代码**：
+    ```python
+    Inequality = PowerLaw(Capital_Accumulation)
+    # 乘性动力学的必然结果，非加性
+    ```
+
+## 19.【危机 Crisis】
+
+*   **传统定义**：经济衰退。
+*   **EMIS 定义**：**相变 (Phase Transition)** 失败。结构刚性过大，无法适应能量流的波动。
+*   **EMIS 伪代码**：
+    ```python
+    if Energy_Fluctuation > Structure.elasticity:
+        raise SystemCollapseError("Crisis Initiated")
+    ```
+
+## 20.【经济 Economy】
+
+*   **传统定义**：生产消费体系。
+*   **EMIS 定义**：一个文明的总**代谢 (Metabolism)** 系统。
+*   **EMIS 伪代码**：
+    ```python
+    Economy = sum(all_structures.metabolism())
+    ```
