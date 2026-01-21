@@ -1,8 +1,8 @@
 ---
-title: "999 Beauty Index"
+title: "901 Beauty"
 excerpt: "Beauty as an Energy-Efficient Pattern Recognized by Biological and Cognitive Systems"
-doc_id: 999
-lang-ref: 999-beauty
+doc_id: 901
+lang-ref: 901-beauty
 ---
 
 **Initiating a "Thanos Snap" on the Humanities.**
