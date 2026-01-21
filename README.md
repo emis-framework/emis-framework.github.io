@@ -94,9 +94,21 @@ EMIS is a constraint-level framework that specifies the energetic, material, inf
 
 EMIS should not be interpreted as a variant of institutional economics, complexity economics, or econophysics. While it shares surface-level vocabulary with these approaches, its analytical target is distinct: EMIS operates at the level of systemic feasibility constraints rather than behavioral explanation, dynamic modeling, or empirical fitting.
 
+## 5. Computational Application: Neuro-symbolic AI
 
+Beyond its theoretical utility, EMIS is designed as a Neuro-symbolic Constraint Layer for Artificial Intelligence, specifically Large Language Models (LLMs).
 
-## 5. Repository Structure
+Current LLMs operate probabilistically, often generating plausible but logically inconsistent narratives when reasoning about complex social dynamics (Hallucination).
+
+EMIS addresses this by providing a ground-truth symbolic structure:
+
+- Constraint Enforcement: EMIS functions as a "Physics Engine" for social reasoning. It rejects generated outputs that violate fundamental energy-information constraints (e.g., infinite growth without entropy production).
+- Logical Grounding: By mapping vague natural language concepts (e.g., "Revolution") to precise state-space transitions (e.g., "Structural rupture due to energy gradient"), EMIS enables AI to reason with causal fidelity.
+- Token Efficiency: Complex socio-historical contexts can be compressed into low-dimensional EMIS vectors, serving as an efficient Intermediate Representation (IR) for long-horizon reasoning.
+  
+We invite AI researchers to utilize EMIS as a structural prior or reward model component to enhance the reasoning capabilities of models in economics, strategy, and policy domains.
+
+## 6. Repository Structure
 
 ```text
 /
@@ -116,7 +128,7 @@ EMIS should not be interpreted as a variant of institutional economics, complexi
 
 ---
 
-## 6. Citation & Attribution
+## 7. Citation & Attribution
 
 If you reference or build upon this work, please cite:
 
@@ -128,7 +140,7 @@ Attribution preserves conceptual clarity and scholarly continuity.
 
 ---
 
-## 7. How to Contribute
+## 8. How to Contribute
 - Submit an Issue: If you find logical loopholes or inconsistencies.
 - Pull Request: If you want to contribute a more precise definition for a specific discipline.
 - Discussions: If you want to explore implications, limitations, and extensions

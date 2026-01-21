@@ -59,6 +59,10 @@ emis_en:
         url: /en/emis/150-sociology/
       - title: "200 Politics"
         url: /en/emis/200-politics/
+      - title: "900 Humanities"
+        url: /en/emis/900-humanities/
+      - title: "901 Beauty"
+        url: /en/emis/901-beauty/
 
   - title: "Phenomena"
     children:
@@ -104,6 +108,10 @@ emis_zh:
         url: /zh/emis/150-sociology/
       - title: "200 政治学"
         url: /zh/emis/200-politics/
+      - title: "900 人文学科"
+        url: /zh/emis/900-humanities/
+      - title: "901 美"
+        url: /zh/emis/901-beauty/
 
   - title: "现象解释"
     children:
