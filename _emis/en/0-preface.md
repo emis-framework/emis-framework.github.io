@@ -73,4 +73,4 @@ it characterizes the structural constraints under which systems evolve.
 
 1. Start with the [Axioms](/en/emis/01-axioms/)
 2. Understand the [Core Triangle](/en/emis/10-core-triangle/)
-3. Explore specific [Disciplines](/en/emis/100-econmics/)
+3. Explore specific [Disciplines](/en/emis/100-economics/)

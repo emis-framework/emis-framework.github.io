@@ -68,4 +68,4 @@ lang-ref: 0-preface
 
 1. 从[公理](/zh/emis/01-axioms/)开始
 2. 理解[核心三角形](/zh/emis/10-core-triangle/)
-3. 探索具体[学科视角](/zh/emis/100-econmics/)
+3. 探索具体[学科视角](/zh/emis/100-economics/)
