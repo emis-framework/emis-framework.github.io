@@ -58,7 +58,7 @@ This hypothesis is **descriptive**, not normative.
 It explains *how systems evolve*, not *how they should evolve*.
 
 Crucial Insight:
-EMIS postulates that social systems behave as 2D Momentum-Dominated Fluids, not 3D Energy-Dominated systems.
+EMIS postulates that Society as a 2D Manifold.
 This dimensionality shift explains the Inverse Energy Cascade (Monopoly), Logarithmic Gravity (Globalization), and why wealth behaves as a vector that can vanish upon collision.
 
 ---
