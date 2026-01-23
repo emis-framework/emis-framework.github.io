@@ -60,6 +60,7 @@ It explains *how systems evolve*, not *how they should evolve*.
 Crucial Insight:
 
 EMIS postulates that social systems operate on a 2D Manifold, distinct from 3D physical space.
+
 This topological constraint (Reduced Degrees of Freedom) fundamentally alters the realization of conservation laws, leading to Inverse Energy Cascades (Monopoly) and Logarithmic Gravity (Globalization).
 
 ---
