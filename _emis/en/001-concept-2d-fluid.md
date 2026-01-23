@@ -1,21 +1,29 @@
 ---
-title: "Concept Note: Society as a 2D Momentum Fluid"
+title: "Concept Note: Society as a 2D Manifold"
 doc_id: 001
 ---
 
 ## Hypothesis
-Social systems operate on a 2D topological surface, distinct from 3D physical space. This dimensionality shift fundamentally alters the conservation laws and force dynamics.
+Social systems operate on a **2D Manifold** (networks/territories), distinct from 3D Euclidean space. This topological constraint fundamentally alters the realization of conservation laws.
 
-## 1. Momentum Conservation (vs Energy)
-In 2D social networks, wealth behaves as a **Vector (Momentum)** rather than a Scalar (Energy).
-- **Implication**: Financial crises are vector cancellations (collisions of opposing debt obligations), resulting in the "evaporation" of wealth, which is impossible under scalar energy conservation.
+## 1. Conservation Laws (Energy & Momentum)
+Both **Energy** and **Momentum** conservation remain invariant principles ($\frac{dE}{dt}=0, \frac{d\vec{p}}{dt}=0$), but their manifestation is constrained by the manifold's geometry.
+- **Degrees of Freedom**: Reduced from 3 to 2.
+- **Heat Capacity**: The internal energy of an ideal gas drops from $\frac{3}{2}NkT$ to $1NkT$.
+- **Implication**: Social systems have **lower heat capacity** than physical 3D systems. The same energy injection causes a sharper rise in volatility (Temperature). The system is thermodynamically more responsive.
 
 ## 2. Logarithmic Gravity
-In 2D, the flux through a boundary scales with $r$ (circumference), not $r^2$ (sphere).
+In a 2D manifold, the flux through a boundary scales with $r$ (circumference), not $r^2$ (sphere).
 - **Force Law**: $F \propto 1/r$.
 - **Potential**: $V \propto \ln(r)$.
-- **Implication**: Economic gravity is a long-range force that does not decay to zero. This explains the infinite reach of capital in globalization.
+- **Implication**: Economic gravity is a long-range force that does not decay to zero (Confinement). This explains the infinite reach of capital in globalization.
 
 ## 3. Inverse Energy Cascade
-2D fluid dynamics exhibit **Inverse Energy Cascades**, where energy flows from small scales to large scales.
-- **Implication**: Small market players (vortices) inevitably merge into larger structures. Monopoly is a thermodynamic necessity of 2D substrates, contrary to 3D entropy (dissipation).
+Fluid dynamics on a 2D manifold exhibit **Inverse Energy Cascades**.
+- **Mechanism**: Simultaneous conservation of Energy and **Enstrophy** forces energy to flow from small scales to large scales.
+- **Implication**: Small market players (small vortices) inevitably merge into larger structures. Monopoly is a thermodynamic necessity of the 2D topology.
+
+## 4. The Scalarization of Angular Momentum
+On a 2D manifold, angular momentum degenerates from a Vector to a **Scalar (Pseudo-scalar)**.
+- **Physical Consequence**: Vortex stretching is topologically impossible.
+- **Social Consequence**: Social structures (Organizations) lose the degrees of freedom required for complex 3D differentiation. They are kinematically locked into a merge-only trajectory.
