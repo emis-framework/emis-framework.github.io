@@ -1,8 +1,9 @@
 ---
-title: "120  流动性陷阱的几何本质：二维黎曼流形上的费雪方程式"
+title: "122  流动性陷阱的几何本质：二维黎曼流形上的费雪方程式"
 excerpt: "The Geometry of Liquidity Traps: Fisher's Equation on a 2D Riemannian Manifold"
-doc_id: 120
-lang-ref: 120-fisher
+doc_id: 122
+lang-ref: 122-fisher
+note: re-order 120->122
 ---
 
 ----

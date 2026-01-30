@@ -1,6 +1,8 @@
 ---
 title: "概念备注：社会作为二维流形"
-doc_id: 001
+doc_id: 121
+framework-level: L1
+note: re-order 001->121
 ---
 
 ## 核心假设

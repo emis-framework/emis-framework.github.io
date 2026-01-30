@@ -1,8 +1,9 @@
 ---
-title: "120  The Geometry of Liquidity Traps: Fisher's Equation on a 2D Riemannian Manifold"
+title: "122  The Geometry of Liquidity Traps: Fisher's Equation on a 2D Riemannian Manifold"
 excerpt: "The Geometry of Liquidity Traps: Fisher's Equation on a 2D Riemannian Manifold"
-doc_id: 120
-lang-ref: 120-fisher
+doc_id: 122
+lang-ref: 122-fisher
+note: re-order 120->122
 ---
 
 

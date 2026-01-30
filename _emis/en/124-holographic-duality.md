@@ -1,8 +1,9 @@
 ---
-title: "140 - The Holographic Principle in Finance"
+title: "124 - The Holographic Principle in Finance"
 excerpt: "Deriving Market Geometry from Micro-Entanglement via AdS/CFT"
-doc_id: 140
-lang-ref: 140-holographic-duality
+doc_id: 124
+lang-ref: 124-holographic-duality
+note: re-order 140->124
 ---
 
 ## Part 1: English Version

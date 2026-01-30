@@ -1,10 +1,11 @@
 ---
-title: "130 - Project EMIS 理论版图"
+title: "123 - Project EMIS 理论版图"
 type: technical-note
 status: strategic-claim
 framework-level: level-3
-doc_id: 130
-lang-ref: 130-roadmap-claims
+doc_id: 123
+lang-ref: 123-roadmap-claims
+note: re-order 130->123
 ---
 
 # Project EMIS 理论版图：优先权声明与未来路线图

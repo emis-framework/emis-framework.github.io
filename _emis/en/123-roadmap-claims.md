@@ -1,10 +1,11 @@
 ---
-title: "130 - The Theoretical Roadmap of Project EMIS"
+title: "123 - The Theoretical Roadmap of Project EMIS"
 type: technical-note
 status: strategic-claim
 framework-level: level-3
-doc_id: 130
-lang-ref: 130-roadmap-claims
+doc_id: 123
+lang-ref: 123-roadmap-claims
+note: re-order 130->123
 ---
 
 # The Theoretical Roadmap of Project EMIS: Priority Claims & Future Directions

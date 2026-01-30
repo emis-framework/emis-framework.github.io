@@ -1,8 +1,9 @@
 ---
-title: "140  金融全息原理：纠缠即几何"
+title: "124  金融全息原理：纠缠即几何"
 excerpt: "Deriving Market Geometry from Micro-Entanglement via AdS/CFT"
-doc_id: 140
-lang-ref: 140-holographic-duality
+doc_id: 124
+lang-ref: 124-holographic-duality
+note: re-order 140->124
 ---
 
 

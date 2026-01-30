@@ -1,6 +1,8 @@
 ---
 title: "Concept Note: Society as a 2D Manifold"
-doc_id: 001
+doc_id: 121
+framework-level: L1
+note: re-order 001->121
 ---
 
 ## Hypothesis
