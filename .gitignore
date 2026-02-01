@@ -3,3 +3,5 @@ _site
 .jekyll-metadata
 _config copy.yml
 drafts/
+*.png
+_emis_code/emis_prediction_1_sse50.py

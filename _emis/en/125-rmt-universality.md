@@ -9,9 +9,9 @@ framework-level: L3-to-L4
 ---
 
 # The Universality of Chaos: From Holographic Gravity to Random Matrices
-**Project EMIS Technical Note #150**
+**Project EMIS Technical Note #125**
 
-**Dependencies:** Doc 120 (2D Manifolds), Doc 140 (Holographic Entanglement)
+**Dependencies:** Doc 120->122 (2D Manifolds), Doc 140->rename to 124 (Holographic Entanglement)
 **Core Bridge:** L3 (Holography) → L4 (Random Matrix Theory)
 **Keywords:** SSS Duality, Quantum Chaos, Level Repulsion, Spectral Form Factor, Universality Class
 

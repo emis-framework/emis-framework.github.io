@@ -3,6 +3,7 @@ title: "100 Economics Index"
 excerpt: "A Generative Redefinition of Core Economic Concepts under the EMIS Framework"
 doc_id: 100
 lang-ref: 100-economics
+framework-level: L1-to-L4
 ---
 
 > Based on **EMIS Framework v0.2.0**
@@ -25,202 +26,126 @@ lang-ref: 100-economics
 
 ---
 
+# Economics Index - 20 Core Vocabulary (Unified Definitions)
+
+> **EMIS v0.2 (Physical Layer)**: Economics is about how energy is distributed, delayed, and amplified within structures.
+> **EMIS v0.5 (Holographic Layer)**: Economics is a holographic projection operating on a 2D manifold, governed by JT Gravity, and obeying the statistical laws of Random Matrix Theory.
+
+---
+
 ## 1. [Inflation]
 
-*   **Legacy Definition**: Sustained increase in price levels due to money supply or demand.
-*   **EMIS Definition**: Decoupling of the **Token Layer** from the **Physical Energy Layer**.
-*   **EMIS Code**:
+* **Traditional Definition**: A sustained increase in the general price level, attributed to money supply or demand.
+* **EMIS v0.2 Definition**: The decoupling of the **Token Layer** from the **Physical Energy Layer**.
+* **EMIS v0.2 Pseudo-code**:
     ```python
     def is_inflation(economy):
-        # Inflation = Token Delta > Energy Capture Delta
+        # Inflation = Token Increment > Physical Capture Increment
         return d(Token_Supply) / dt > d(Real_Energy_Capture) / dt
     ```
+* **v0.5 (Holographic Reconstruction)**: **Geometric Expansion driven by Entropy**.
+    * **L1 (Geometry)**: An increase in money supply causes the manifold volume element $\sqrt{-g}$ to expand, much like cosmic expansion stretching the ruler itself.
+    * **L2 (Gravity)**: **Ricci Flow** effect. $\frac{\partial g_{ij}}{\partial t} \propto -R_{ij}$. Negative curvature drives spatial expansion.
+    * **L3 (Holography)**: The increase in microscopic Entanglement Entropy $S$ forces the macroscopic geometry to expand to accommodate the information. Inflation is the spacetime manifestation of information overload.
+* **EMIS v0.5 Pseudo-code**:
+    ```python
+    def is_inflation_v05(economy):
+        # Inflation = Entropy-driven Metric Expansion
+        return d(Metric_Volume) / dt  > d(Holographic_Complexity) / dt
+    ```
+
+---
 
 ## 2. [Money]
 
-*   **Legacy Definition**: Medium of exchange, store of value.
-*   **EMIS Definition**: A generic **interface** for invoking energy across time and structure.
-*   **EMIS Code**:
+* **Traditional Definition**: A medium of exchange and store of value.
+* **EMIS v0.2 Definition**: A universal **Interface** for calling/invoking energy across time and structures.
+* **EMIS v0.2 Pseudo-code**:
     ```typescript
     interface Money {
         // Money is a claim on future energy
         claim_energy(amount: number, time: Future): Energy;
     }
     ```
-
-## 3. [Price]
-
-*   **Legacy Definition**: Equilibrium of supply and demand.
-*   **EMIS Definition**: The **impedance (resistance)** signal of accessing energy within a specific structure.
-*   **EMIS Code**:
-    ```python
-    Price = Energy_Cost / Structural_Efficiency
-    # Low efficiency structure -> High Price (High Impedance)
-    ```
-
-## 4. [Value]
-
-*   **Legacy Definition**: Utility or subjective preference.
-*   **EMIS Definition**: The capacity of a structure to **reduce local entropy** (save energy).
-*   **EMIS Code**:
-    ```python
-    Value(structure) = -d(Entropy_Local) / dt
-    # Value is Negentropy rate
-    ```
-
-## 5. [Efficiency]
-
-*   **Legacy Definition**: Optimal allocation of resources.
-*   **EMIS Definition**: Ratio of functional output to energy dissipation.
-*   **EMIS Code**:
-    ```python
-    Efficiency = Function_Output / (Energy_Input + Heat_Loss)
-    ```
-
-## 6. [Growth]
-
-*   **Legacy Definition**: Increase in GDP.
-*   **EMIS Definition**: Increase in the system's capacity to **structure** energy flows.
-*   **EMIS Code**:
-    ```python
-    Growth = d(Structured_Energy_Stock) / dt
-    # Not just flow, but structured stock
-    ```
-
-## 7. [Production]
-
-*   **Legacy Definition**: Creating goods/services using labor and capital.
-*   **EMIS Definition**: The process of encoding **Information** into **Matter** using **Energy**.
-*   **EMIS Code**:
-    ```python
-    Production(Raw_Matter, Info) -> Structured_Matter:
-        consume(Energy)
-        return Matter.inject(Info)
-    ```
-
-## 8. [Consumption]
-
-*   **Legacy Definition**: Utilizing goods/services.
-*   **EMIS Definition**: The **release** of stored energy structure into heat (dissipation).
-*   **EMIS Code**:
-    ```python
-    Consumption(Structure) -> Heat:
-        Entropy += Structure.dissolve()
-    ```
-
-## 9. [Saving]
-
-*   **Legacy Definition**: Income not consumed.
-*   **EMIS Definition**: **Latent** energy potential stored for future allocation.
-*   **EMIS Code**:
-    ```python
-    Saving = integral(Energy_Capture - Energy_Dissipation, dt)
-    ```
-
-## 10. [Investment]
-
-*   **Legacy Definition**: Allocating money for future profit.
-*   **EMIS Definition**: Injecting energy to build higher-order **negative entropy structures**.
-*   **EMIS Code**:
-    ```python
-    Investment(Energy) -> New_Structure:
-        if New_Structure.efficiency > Current_Structure.efficiency:
-            return Profit
-    ```
-
-## 11. [Capital]
-
-*   **Legacy Definition**: Assets used for production.
-*   **EMIS Definition**: A **crystallized structure** capable of capturing external energy streams.
-*   **EMIS Code**:
+* **v0.5 (Holographic Reconstruction)**: **The Metric Tensor ($g_{\mu\nu}$) of the 2D Manifold**.
+    * **L1 (Geometry)**: Money defines the "distance" and "angle" between two points (assets) in the economic space.
+    * **L3 (Holography)**: **Geometrization of Entanglement**. Money is the macroscopic geometric connectivity emerging from microscopic trust (entanglement). Without money, economic space is merely discrete dust.
+* **EMIS v0.5 Pseudo-code**:
     ```typescript
-    class Capital extends Structure {
-        capture_energy(environment): Flow;
+    interface Money_v05 {
+        // Money defines the spacetime metric
+        measure_distance(Asset_A, Asset_B): Geodesic_Length;
     }
     ```
 
-## 12. [Labor]
+---
 
-*   **Legacy Definition**: Human effort in production.
-*   **EMIS Definition**: The biological **API** for converting chemical energy into physical work.
-*   **EMIS Code**:
+## 3. [Price]
+
+* **Traditional Definition**: The equilibrium point of supply and demand.
+* **EMIS v0.2 Definition**: The **Impedance** signal for acquiring energy within a specific structure.
+* **EMIS v0.2 Pseudo-code**:
     ```python
-    Labor = Bio_System.execute(Work_Command)
+    Price = Energy_Cost / Structural_Efficiency
+    # Low structural efficiency -> High Price (High Impedance)
+    ```
+* **v0.5 (Holographic Reconstruction)**: **Gradient of the Gravitational Potential**.
+    * **L2 (Gravity)**: High prices represent the bottom of a gravitational potential well (e.g., core assets), requiring energy expenditure to climb out of (to purchase).
+    * **L4 (RMT)**: The price fluctuation spectrum obeys the **Tracy-Widom Distribution** (largest eigenvalue distribution), reflecting the scaling behavior at the system's edge.
+* **EMIS v0.5 Pseudo-code**:
+    ```python
+    Price = Gradient(Gravitational_Potential_Phi)
+    # Price is the "height" in the gravitational field
     ```
 
-## 13. [Technology]
+---
 
-*   **Legacy Definition**: Application of scientific knowledge.
-*   **EMIS Definition**: An algorithm to minimize the **resistance** of energy paths.
-*   **EMIS Code**:
+## 4. [Value]
+
+* **Traditional Definition**: Utility or subjective preference.
+* **EMIS v0.2 Definition**: The ability of a structure to **lower local entropy (save energy)**.
+* **EMIS v0.2 Pseudo-code**:
     ```python
-    Technology = minimize(Path_Resistance(Energy_Source, Goal))
+    Value(structure) = -d(Entropy_Local) / dt
+    # Value is the rate of negentropy
+    ```
+* **v0.5 (Holographic Reconstruction)**: **Holographic Complexity**.
+    * **L3 (Holography)**: The value of an item equals the **Computational Complexity** of its corresponding quantum state on the holographic boundary (Complexity-Volume Conjecture).
+    * **Intuition**: The harder it is to generate a structure via simple algorithms (e.g., chips, art), the larger its internal "wormhole volume," and thus the higher its value.
+* **EMIS v0.5 Pseudo-code**:
+    ```python
+    Value(structure) = Complexity(Quantum_State) ~ Volume(Wormhole)
     ```
 
-## 14. [Market]
+---
 
-*   **Legacy Definition**: Place where buyers and sellers meet.
-*   **EMIS Definition**: A distributed protocol for **signal synchronization** (Price Discovery).
-*   **EMIS Code**:
+## 5. [Efficiency]
+
+* **Traditional Definition**: Optimal allocation of resources.
+* **EMIS v0.2 Definition**: Ratio of functional output to energy dissipation.
+* **EMIS v0.2 Pseudo-code**:
     ```python
-    Market = Distributed_Network.sync(Signal_Price)
+    Efficiency = Function_Output / (Energy_Input + Heat_Loss)
+    ```
+* **v0.5 (Holographic Reconstruction)**: **Geodesic Deviation**.
+    * **L1 (Geometry)**: Perfect efficiency = Moving along a geodesic (zero resistance).
+    * **L2 (Gravity)**: Low efficiency = Deviation from the shortest path caused by gravitational waves or curvature perturbations, resulting in **Dissipation**.
+* **EMIS v0.5 Pseudo-code**:
+    ```python
+    Efficiency = 1 - Deviation(Actual_Path, Geodesic_Path)
     ```
 
-## 15. [Competition]
+---
 
-*   **Legacy Definition**: Rivalry for profit.
-*   **EMIS Definition**: Evolutionary selection pressure on structures for **maximum energy capture**.
-*   **EMIS Code**:
+## 6. [Growth]
+
+* **Traditional Definition**: Increase in GDP.
+* **EMIS v0.2 Definition**: Improvement in the system's ability to **structure** energy flows.
+* **EMIS v0.2 Pseudo-code**:
     ```python
-    while True:
-        if Structure_A.capture_rate > Structure_B.capture_rate:
-            Structure_B.die() # Natural Selection
+    Growth = d(Structured_Energy_Stock) / dt
+    # Growth is not just flow, but the structuring of stock
     ```
-
-## 16. [Monopoly]
-
-*   **Legacy Definition**: Exclusive control of supply.
-*   **EMIS Definition**: Artificial **high-impedance barrier** erected around an energy source.
-*   **EMIS Code**:
-    ```python
-    Monopoly = Barrier(Energy_Source).set_permission(Only_Me)
-    ```
-
-## 17. [Risk] (风险)
-
-*   **Legacy Definition**: Probability of loss.
-*   **EMIS Definition**: The **entropy (uncertainty)** of future energy return paths.
-*   **EMIS Code**:
-    ```python
-    Risk = Entropy(Future_Energy_Paths)
-    # Higher entropy = Higher unpredictability
-    ```
-
-## 18. [Inequality]
-
-*   **Legacy Definition**: Unequal distribution of income.
-*   **EMIS Definition**: The inevitable result of **Pareto distribution** in multiplicative energy systems (Yakovenko).
-*   **EMIS Code**:
-    ```python
-    Inequality = PowerLaw(Capital_Accumulation)
-    # Result of multiplicative dynamics, not additive
-    ```
-
-## 19. [Crisis]
-
-*   **Legacy Definition**: Economic downturn.
-*   **EMIS Definition**: **Phase transition** failure. The structure is too rigid to handle energy flux volatility.
-*   **EMIS Code**:
-    ```python
-    if Energy_Fluctuation > Structure.elasticity:
-        raise SystemCollapseError("Crisis Initiated")
-    ```
-
-## 20. [Economy]
-
-*   **Legacy Definition**: System of production and consumption.
-*   **EMIS Definition**: The aggregate **metabolism** of a civilization.
-*   **EMIS Code**:
-    ```python
-    Economy = sum(all_structures.metabolism())
-    ```
+* **v0.5 (Holographic Reconstruction)**: **Change in the Euler Characteristic of the Manifold**.
+    * **L1 (Geometry)**: True growth is not just volume expansion (inflation), but a **Topological Transition**. From Genus $g=0$ (simple agriculture) to $g=N$ (complex industrial network).
+    * **L4 (RMT)**: Expansion of the support interval of the system's eigenvalue density (increasing the Radius $R$ of the Wigner Semicircle).
