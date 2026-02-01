@@ -96,7 +96,7 @@ With RMT, EMIS v0.5 completes the loop from geometric topology to statistical un
 
 RMT provides an **ultimate explanation** for social sciences independent of ideology.
 
-> **Inference 150.1 (Universality Class Hypothesis):**
+> **Inference 125.1 (Universality Class Hypothesis):**
 > Any sufficiently complex social system, once internal interaction intensity reaches the threshold of chaos, will inevitably see its macro-indicators (wealth distribution, price fluctuation spectra, power structure stability) converge to the same **Random Matrix Ensemble (Gaussian Ensemble)**.
 
 This is why we observe similar power-law distributions and periodic collapses across different civilizations and technological eras. **History rhymes because different eras are simply different samples diagonalizing the same Random Matrix Ensemble.**
