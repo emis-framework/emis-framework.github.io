@@ -83,12 +83,12 @@ $$
 
 With RMT, EMIS v0.5 completes the loop from geometric topology to statistical universality:
 
-| Level  | Physical Carrier             | Economic/Sociological Isomorphism            | Mathematical Form                         |
-| :----- | :--------------------------- | :------------------------------------------- | :---------------------------------------- |
-| **L1** | **2D Manifold**              | **Market Topology / Geopolitical Landscape** | Riemann Surface $\mathcal{M}$ (Genus $g$) |
-| **L2** | **JT Gravity**               | **Macro-Dynamics / Liquidity**               | $S = \int \Phi (R+2) + S_{\partial}$      |
-| **L3** | **Holographic Entanglement** | **Micro-Networks / Complexity**              | $S_{EH} = \text{Area}/4G$                 |
-| **L4** | **Random Matrix** (RMT)      | **Universal Statistical Laws**               | $P(E) \sim \prod                          | E_i - E_j | ^\beta$ |
+| Level  | Physical Carrier             | Economic/Sociological Isomorphism            | Mathematical Form                                   |
+| :----- | :--------------------------- | :------------------------------------------- | :-------------------------------------------------- |
+| **L1** | **2D Manifold**              | **Market Topology / Geopolitical Landscape** | Riemann Surface $\mathcal{M}$ (Genus $g$)           |
+| **L2** | **JT Gravity**               | **Macro-Dynamics / Liquidity**               | $S = \int \Phi (R+2) + S_{\partial}$                |
+| **L3** | **Holographic Entanglement** | **Micro-Networks / Complexity**              | $S_{EH} = \text{Area}/4G$                           |
+| **L4** | **Random Matrix** (RMT)      | **Universal Statistical Laws**               | $P(E) \sim \prod_{i<j} \vert E_i - E_j \vert^\beta$ |
 
 ---
 
