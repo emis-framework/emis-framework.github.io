@@ -9,7 +9,6 @@ note: re-order 120->122
 
 ### The Geometry of Liquidity Traps: Fisher's Equation on a 2D Riemannian Manifold
 **Project EMIS Technical Note #120**
-**Date:** Oct 2023
 **Framework:** v0.5 (Holographic Ready)
 **Keywords:** Econophysics, Differential Geometry, Holographic Principle, Monetary Theory
 
