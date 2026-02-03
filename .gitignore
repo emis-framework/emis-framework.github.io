@@ -4,4 +4,6 @@ _site
 _config copy.yml
 drafts/
 *.png
+*.csv
+figure*.pdf
 _emis_code/emis_prediction_1_sse50.py
