@@ -138,8 +138,8 @@ We invite AI researchers to utilize EMIS as a structural prior or reward model c
 
 If you reference or build upon this work, please cite:
 
-> EMIS Framework v0.1.1  
-> Zenodo. https://doi.org/10.5281/zenodo.18287640
+> EMIS Framework v0.5.2 
+> Zenodo. https://doi.org/10.5281/zenodo.18287639
 
 This repository is released under the MIT License and is intended for open academic use.
 Attribution preserves conceptual clarity and scholarly continuity.
