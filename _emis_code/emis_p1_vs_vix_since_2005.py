@@ -94,7 +94,7 @@ TRAIN_END = '2020-01-01'
 WINDOW = 60
 HORIZON = 30
 
-# 2005年前上市的股票（精简稳定版）
+# 2005年前上市的股票（精简稳定版42只）
 TICKERS_2005 = [
     # 科技 (10)
     'AAPL', 'MSFT', 'INTC', 'IBM', 'ORCL',

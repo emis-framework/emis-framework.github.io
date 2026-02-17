@@ -19,7 +19,7 @@ TRAIN_END = '2020-01-01'
 WINDOW = 60
 HORIZON = 30
 
-# 剔除 8306.T 和其他数据不完整的股票
+# 剔除 8306.T 和其他数据不完整的股票 39只
 JAPAN_TICKERS = [
     # 汽车
     '7203.T',   # Toyota
