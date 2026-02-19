@@ -4,6 +4,17 @@ _site
 _config copy.yml
 drafts/
 *.png
-*.csv
 figure*.pdf
+# 忽略所有 CSV
+*.csv
+
+# 但是保留 _emis_code/ 下的 CSV
+!_emis_code/*.csv
+
+# 如果 _emis_code/ 还有子目录的 CSV 也要保留，加上：
+!_emis_code/**/*.csv
+
+
 _emis_code/emis_prediction_1_sse50.py
+_emis_code/trade_gravity_*.*
+_emis_code/test*.*
