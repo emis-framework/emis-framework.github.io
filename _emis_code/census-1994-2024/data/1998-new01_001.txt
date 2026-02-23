@@ -1,0 +1,978 @@
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                               1
+(Numbers in thousands.  Households as of March of the following year)
+
+                                                                          $2,500            $5,000            $7,500           $10,000           $12,500 
+                                                         Under                TO                TO                TO                TO                TO 
+                                       Total            $2,500            $4,999            $7,499            $9,999           $12,499           $14,999 
+                                                                                                                                                         
+ALL RACES                                                                                                                                                
+ALL HOUSEHOLDS.......                103,874             2,011             1,362             3,768             3,564             4,169             3,924 
+                                                                                                                                                         
+ TYPE OF RESIDENCE                                                                                                                                       
+                                                                                                                                                         
+Inside metro areas........            83,441             1,593             1,094             2,740             2,669             3,211             2,982 
+  Inside central cities...            32,144               861               702             1,562             1,347             1,547             1,494 
+    One million or more...            20,513               541               456             1,091               863             1,031               956 
+    Under one million.....            11,631               320               246               471               484               516               538 
+  Outside central cities..            51,297               733               392             1,178             1,322             1,664             1,488 
+    One million or more...            35,028               443               228               702               821             1,021               953 
+    Under one million.....            16,269               289               165               476               501               642               535 
+Outside metro areas.......            20,433               417               268             1,029               895               958               942 
+                                                                                                                                                         
+REGIONS/DIVISIONS                                                                                                                                        
+Northeast.................            19,877               407               280               806               662               847               733 
+ New England..............             5,267                80                74               151               159               235               189 
+ Middle Atlantic..........            14,610               327               206               655               503               612               544 
+Midwest...................            24,489               368               278               792               749               900               934 
+ East North Central.......            17,059               245               182               594               527               648               635 
+ West North Central.......             7,430               123                96               198               221               252               299 
+South.....................            36,959               850               541             1,527             1,462             1,515             1,409 
+ South Atlantic...........            19,254               450               228               718               711               711               703 
+ East South Central.......             6,311               145               115               318               268               301               246 
+ West South Central.......            11,395               256               199               491               483               504               460 
+West......................            22,549               385               263               643               691               908               848 
+ Mountain.................             6,406               129                59               178               179               226               244 
+ Pacific..................            16,142               257               203               464               512               682               604 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                               2
+(Numbers in thousands.  Households as of March of the following year)
+
+                                                                          $2,500            $5,000            $7,500           $10,000           $12,500 
+                                                         Under                TO                TO                TO                TO                TO 
+                                       Total            $2,500            $4,999            $7,499            $9,999           $12,499           $14,999 
+                                                                                                                                                         
+TYPE OF HOUSEHOLD                                                                                                                                        
+Family households.........            71,535               940               710             1,317             1,220             1,758             1,895 
+ Married-couple families..            54,770               457               170               388               526               870               971 
+ Male householder, nsp....             3,976                64                34                86                52                99               110 
+ Female householder, nsp..            12,789               420               506               844               642               790               813 
+Nonfamily households......            32,339             1,071               653             2,451             2,344             2,411             2,029 
+ Male householder.........            14,368               484               241               731               627               682               683 
+   Living alone...........            10,966               427               215               695               588               615               586 
+ Female householder.......            17,971               587               411             1,719             1,717             1,729             1,346 
+   Living alone...........            15,640               556               391             1,689             1,677             1,673             1,277 
+                                                                                                                                                         
+AGE OF HOUSEHOLDER                                                                                                                                       
+                                                                                                                                                         
+Under 65 years............            82,286             1,682             1,058             2,358             1,770             2,396             2,249 
+  15 to 24 years..........             5,770               257               237               346               236               380               289 
+  25 to 34 years..........            18,819               391               282               405               427               583               610 
+  35 to 44 years..........            23,968               383               223               559               329               575               556 
+  45 to 54 years..........            20,158               306               169               503               309               375               414 
+  55 to 64 years..........            13,571               346               148               545               468               483               380 
+65 years and over.........            21,589               329               304             1,410             1,794             1,774             1,675 
+  65 to 74 years..........            11,373               163               143               617               789               682               670 
+  75 years and over.......            10,216               165               161               793             1,005             1,091             1,004 
+                                                                                                                                                         
+Mean age of householder...              48.6              45.8              45.9              54.9              59.2              55.6              55.6 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                               3
+(Numbers in thousands.  Households as of March of the following year)
+
+                                                                          $2,500            $5,000            $7,500           $10,000           $12,500 
+                                                         Under                TO                TO                TO                TO                TO 
+                                       Total            $2,500            $4,999            $7,499            $9,999           $12,499           $14,999 
+                                                                                                                                                         
+SIZE OF HOUSEHOLD                                                                                                                                        
+                                                                                                                                                         
+One person................            26,606               982               606             2,383             2,265             2,288             1,863 
+Two people................            34,262               559               314               648               661               976             1,075 
+Three people..............            17,386               197               214               374               287               393               451 
+Four people...............            15,030               127               128               180               201               257               288 
+Five people...............             6,962               105                62               111                93               151               159 
+Six people................             2,367                28                18                53                41                67                59 
+Seven people or more......             1,261                14                20                18                15                38                29 
+                                                                                                                                                         
+Mean size of household....              2.61              2.00              2.15              1.76              1.72              1.92              2.05 
+                                                                                                                                                         
+NUMBER OF EARNERS                                                                                                                                        
+                                                                                                                                                         
+No earners................            21,263             1,347               709             2,576             2,429             2,129             1,854 
+One earner................            36,216               568               581             1,041               966             1,722             1,629 
+Two earners and more......            46,396                95                72               151               169               318               441 
+  2 earners...............            36,501                84                62               150               158               308               404 
+  3 earners...............             7,409                11                10                 1                11                10                37 
+  4 earners or more.......             2,485                 0                 0                 1                 0                 0                 0 
+                                                                                                                                                         
+Mean number of earners....              1.41              0.39              0.55              0.36              0.37              0.58              0.67 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                               4
+(Numbers in thousands.  Households as of March of the following year)
+
+                                                                          $2,500            $5,000            $7,500           $10,000           $12,500 
+                                                         Under                TO                TO                TO                TO                TO 
+                                       Total            $2,500            $4,999            $7,499            $9,999           $12,499           $14,999 
+                                                                                                                                                         
+WORK EXPERIENCE OF                                                                                                                                       
+HOUSEHOLDER                                                                                                                                              
+                                                                                                                                                         
+     Total................           103,874             2,011             1,362             3,768             3,564             4,169             3,924 
+Worked....................            74,296               590               586             1,039               999             1,749             1,822 
+  Worked at f-t jobs......            64,566               369               320               563               616             1,202             1,283 
+    50 weeks or more......            54,963               214                69               185               263               796               880 
+    27 to 49 weeks........             6,194                20                40               136               165               218               229 
+    26 weeks or less......             3,409               135               211               243               187               189               174 
+  Worked at p-t jobs......             9,730               221               266               476               383               547               539 
+    50 weeks or more......             4,867                57                61               186               177               258               303 
+    27 to 49 weeks........             2,325                30                59               112               105               126               108 
+    26 weeks or less......             2,538               134               146               178               101               163               127 
+Did not work..............            29,578             1,420               776             2,729             2,565             2,421             2,101 
+                                                                                                                                                         
+YEARS OF SCHOOL COMPLETED                                                                                                                                
+ BY HOUSEHOLDER                                                                                                                                          
+                                                                                                                                                         
+ Total, 25 yrs & over.....            98,104             1,754             1,126             3,423             3,328             3,790             3,635 
+Less than 9th grade.......             7,047               227               188               836               737               707               620 
+9th to 11th grade.........             9,407               335               251               826               647               748               597 
+High School graduate                                                                                                                                     
+(includes equivalency)....            30,613               624               385             1,112             1,147             1,263             1,350 
+Some college, no degree...            17,833               269               168               354               417               536               590 
+Associate Degree..........             7,468                95                51               116               130               228               159 
+Bachelor's Degree or more.            25,738               204                83               180               250               307               319 
+  Bachelor's Degree.......            16,781               135                55               126               197               212               210 
+  Master's Degree.........             5,961                39                21                31                41                64                70 
+  Professional Degree.....             1,623                18                 6                11                 8                22                29 
+  Doctorate Degree........             1,373                11                 2                12                 5                 8                10 
+                                                                                                                                                         
+TENURE                                                                                                                                                   
+                                                                                                                                                         
+Owner occupied............            69,241               888               433             1,346             1,589             1,974             2,044 
+Renter occupied...........            33,035             1,034               872             2,317             1,859             2,107             1,808 
+Occupier paid no cash                                                                                                                                    
+rent......................             1,598                89                58               104               116                88                72 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                               5
+(Numbers in thousands.  Households as of March of the following year)
+
+                                     $15,000           $17,500           $20,000           $22,500           $25,000           $27,500           $30,000 
+                                          TO                TO                TO                TO                TO                TO                TO 
+                                     $17,499           $19,999           $22,499           $24,999           $27,499           $29,999           $32,499 
+                                                                                                                                                         
+ALL RACES                                                                                                                                                
+ALL HOUSEHOLDS.......                  3,758             3,558             3,985             3,286             3,960             3,097             3,802 
+                                                                                                                                                         
+ TYPE OF RESIDENCE                                                                                                                                       
+                                                                                                                                                         
+Inside metro areas........             2,917             2,685             3,041             2,460             3,149             2,378             2,947 
+  Inside central cities...             1,271             1,161             1,386             1,060             1,327               976             1,154 
+    One million or more...               783               670               866               679               784               594               714 
+    Under one million.....               487               491               520               381               543               381               439 
+  Outside central cities..             1,646             1,524             1,654             1,400             1,822             1,402             1,794 
+    One million or more...             1,028               938             1,040               823             1,208               884             1,156 
+    Under one million.....               618               585               614               577               613               518               638 
+Outside metro areas.......               841               873               944               826               812               719               855 
+                                                                                                                                                         
+REGIONS/DIVISIONS                                                                                                                                        
+Northeast.................               658               655               752               550               656               554               677 
+ New England..............               152               188               210               163               195               131               168 
+ Middle Atlantic..........               505               467               542               387               462               423               509 
+Midwest...................               899               777               860               768               915               786               968 
+ East North Central.......               598               553               557               514               616               509               682 
+ West North Central.......               301               223               303               253               299               277               287 
+South.....................             1,437             1,383             1,599             1,263             1,493             1,132             1,359 
+ South Atlantic...........               781               707               831               656               737               555               693 
+ East South Central.......               262               234               250               241               219               193               245 
+ West South Central.......               394               442               518               366               538               384               421 
+West......................               764               744               774               704               896               626               798 
+ Mountain.................               221               214               253               217               264               227               254 
+ Pacific..................               543               530               520               487               632               399               545 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                               6
+(Numbers in thousands.  Households as of March of the following year)
+
+                                     $15,000           $17,500           $20,000           $22,500           $25,000           $27,500           $30,000 
+                                          TO                TO                TO                TO                TO                TO                TO 
+                                     $17,499           $19,999           $22,499           $24,999           $27,499           $29,999           $32,499 
+                                                                                                                                                         
+TYPE OF HOUSEHOLD                                                                                                                                        
+Family households.........             2,029             2,121             2,384             2,105             2,479             2,125             2,421 
+ Married-couple families..             1,162             1,353             1,569             1,404             1,698             1,452             1,760 
+ Male householder, nsp....               159               125               188               168               189               170               162 
+ Female householder, nsp..               708               643               628               532               592               504               498 
+Nonfamily households......             1,729             1,437             1,601             1,181             1,482               972             1,381 
+ Male householder.........               652               544               704               575               713               439               659 
+   Living alone...........               563               464               594               497               587               360               553 
+ Female householder.......             1,077               893               897               606               768               533               722 
+   Living alone...........               990               811               807               547               670               467               618 
+                                                                                                                                                         
+AGE OF HOUSEHOLDER                                                                                                                                       
+                                                                                                                                                         
+Under 65 years............             2,430             2,170             2,838             2,257             3,019             2,277             3,054 
+  15 to 24 years..........               374               289               342               320               288               220               259 
+  25 to 34 years..........               631               547               801               542               884               545               860 
+  35 to 44 years..........               568               580               715               563               814               637               893 
+  45 to 54 years..........               486               389               516               440               590               465               605 
+  55 to 64 years..........               370               365               463               392               443               411               437 
+65 years and over.........             1,328             1,388             1,147             1,029               942               819               748 
+  65 to 74 years..........               543               721               617               519               500               454               463 
+  75 years and over.......               785               667               530               510               442               365               285 
+                                                                                                                                                         
+Mean age of householder...              52.6              53.6              49.7              51.0              48.1              49.6              46.7 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                               7
+(Numbers in thousands.  Households as of March of the following year)
+
+                                     $15,000           $17,500           $20,000           $22,500           $25,000           $27,500           $30,000 
+                                          TO                TO                TO                TO                TO                TO                TO 
+                                     $17,499           $19,999           $22,499           $24,999           $27,499           $29,999           $32,499 
+                                                                                                                                                         
+SIZE OF HOUSEHOLD                                                                                                                                        
+                                                                                                                                                         
+One person................             1,552             1,276             1,401             1,044             1,257               827             1,171 
+Two people................             1,203             1,265             1,433             1,214             1,432             1,149             1,315 
+Three people..............               456               464               556               465               561               505               534 
+Four people...............               301               286               330               324               391               321               428 
+Five people...............               145               177               171               129               194               186               207 
+Six people................                68                61                56                71                86                67                83 
+Seven people or more......                32                29                37                40                39                42                64 
+                                                                                                                                                         
+Mean size of household....              2.15              2.22              2.22              2.34              2.34              2.51              2.44 
+                                                                                                                                                         
+NUMBER OF EARNERS                                                                                                                                        
+                                                                                                                                                         
+No earners................             1,385             1,329             1,046               942               827               624               549 
+One earner................             1,858             1,600             2,147             1,528             2,090             1,471             1,950 
+Two earners and more......               514               629               792               816             1,044             1,002             1,303 
+  2 earners...............               482               579               735               731               944               836             1,164 
+  3 earners...............                32                50                55                76                83               151               120 
+  4 earners or more.......                 0                 0                 2                 9                17                14                19 
+                                                                                                                                                         
+Mean number of earners....              0.79              0.83              0.97              1.01              1.10              1.22              1.27 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                               8
+(Numbers in thousands.  Households as of March of the following year)
+
+                                     $15,000           $17,500           $20,000           $22,500           $25,000           $27,500           $30,000 
+                                          TO                TO                TO                TO                TO                TO                TO 
+                                     $17,499           $19,999           $22,499           $24,999           $27,499           $29,999           $32,499 
+                                                                                                                                                         
+WORK EXPERIENCE OF                                                                                                                                       
+HOUSEHOLDER                                                                                                                                              
+                                                                                                                                                         
+     Total................             3,758             3,558             3,985             3,286             3,960             3,097             3,802 
+Worked....................             2,043             1,891             2,537             2,016             2,755             2,109             2,881 
+  Worked at f-t jobs......             1,651             1,498             2,063             1,670             2,407             1,806             2,583 
+    50 weeks or more......             1,203             1,138             1,623             1,338             2,040             1,491             2,176 
+    27 to 49 weeks........               261               234               258               245               241               215               298 
+    26 weeks or less......               187               126               182                86               126               100               108 
+  Worked at p-t jobs......               392               394               474               346               348               304               299 
+    50 weeks or more......               229               198               261               184               220               146               168 
+    27 to 49 weeks........                92               107               105                80                50                76                72 
+    26 weeks or less......                71                89               107                82                78                81                59 
+Did not work..............             1,715             1,667             1,448             1,270             1,205               987               921 
+                                                                                                                                                         
+YEARS OF SCHOOL COMPLETED                                                                                                                                
+ BY HOUSEHOLDER                                                                                                                                          
+                                                                                                                                                         
+ Total, 25 yrs & over.....             3,384             3,269             3,643             2,966             3,673             2,877             3,543 
+Less than 9th grade.......               453               403               383               298               333               250               196 
+9th to 11th grade.........               629               513               540               374               398               309               340 
+High School graduate                                                                                                                                     
+(includes equivalency)....             1,250             1,158             1,282             1,150             1,397             1,080             1,373 
+Some college, no degree...               535               579               712               530               741               545               719 
+Associate Degree..........               189               200               226               156               272               189               233 
+Bachelor's Degree or more.               327               415               500               459               530               505               681 
+  Bachelor's Degree.......               249               302               366               334               422               368               482 
+  Master's Degree.........                62               100                82                96                74                99               143 
+  Professional Degree.....                 8                 7                35                13                18                18                31 
+  Doctorate Degree........                 8                 6                16                15                16                19                25 
+                                                                                                                                                         
+TENURE                                                                                                                                                   
+                                                                                                                                                         
+Owner occupied............             1,917             2,015             2,167             1,914             2,217             1,951             2,361 
+Renter occupied...........             1,754             1,458             1,733             1,310             1,679             1,102             1,370 
+Occupier paid no cash                                                                                                                                    
+rent......................                87                85                85                62                65                44                71 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                               9
+(Numbers in thousands.  Households as of March of the following year)
+
+                                     $32,500           $35,000           $37,500           $40,000           $42,500           $45,000           $47,500 
+                                          TO                TO                TO                TO                TO                TO                TO 
+                                     $34,999           $37,499           $39,999           $42,499           $44,999           $47,499           $49,999 
+                                                                                                                                                         
+ALL RACES                                                                                                                                                
+ALL HOUSEHOLDS.......                  2,839             3,402             2,621             3,192             2,298             2,782             2,365 
+                                                                                                                                                         
+ TYPE OF RESIDENCE                                                                                                                                       
+                                                                                                                                                         
+Inside metro areas........             2,195             2,635             2,035             2,520             1,811             2,185             1,905 
+  Inside central cities...               864             1,092               699               976               697               824               643 
+    One million or more...               536               688               407               609               425               538               398 
+    Under one million.....               328               405               292               367               272               286               245 
+  Outside central cities..             1,332             1,543             1,336             1,544             1,113             1,362             1,262 
+    One million or more...               835             1,003               913             1,063               759               905               809 
+    Under one million.....               496               540               423               480               354               456               453 
+Outside metro areas.......               643               767               586               672               488               596               460 
+                                                                                                                                                         
+REGIONS/DIVISIONS                                                                                                                                        
+Northeast.................               471               635               464               519               451               488               450 
+ New England..............               129               162               133               119               114               126               110 
+ Middle Atlantic..........               342               474               331               400               337               363               340 
+Midwest...................               683               748               621               815               534               670               552 
+ East North Central.......               478               540               389               575               354               499               379 
+ West North Central.......               205               208               232               240               180               171               173 
+South.....................             1,117             1,228               949             1,130               781               956               864 
+ South Atlantic...........               571               618               502               614               373               490               456 
+ East South Central.......               187               206               159               176               161               187               154 
+ West South Central.......               358               404               288               339               247               279               255 
+West......................               567               791               587               728               533               667               500 
+ Mountain.................               164               237               178               222               169               209               138 
+ Pacific..................               403               554               409               507               364               459               361 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                              10
+(Numbers in thousands.  Households as of March of the following year)
+
+                                     $32,500           $35,000           $37,500           $40,000           $42,500           $45,000           $47,500 
+                                          TO                TO                TO                TO                TO                TO                TO 
+                                     $34,999           $37,499           $39,999           $42,499           $44,999           $47,499           $49,999 
+                                                                                                                                                         
+TYPE OF HOUSEHOLD                                                                                                                                        
+Family households.........             1,972             2,251             1,902             2,295             1,747             2,123             1,874 
+ Married-couple families..             1,419             1,664             1,453             1,763             1,391             1,678             1,506 
+ Male householder, nsp....               154               139               115               134                94               165               112 
+ Female householder, nsp..               398               449               334               398               263               279               256 
+Nonfamily households......               867             1,150               719               897               551               659               492 
+ Male householder.........               426               622               354               488               285               382               286 
+   Living alone...........               283               487               270               358               199               255               199 
+ Female householder.......               441               529               365               409               266               278               206 
+   Living alone...........               388               472               308               321               194               210               133 
+                                                                                                                                                         
+AGE OF HOUSEHOLDER                                                                                                                                       
+                                                                                                                                                         
+Under 65 years............             2,277             2,810             2,058             2,718             1,959             2,449             2,035 
+  15 to 24 years..........               178               254               144               173               118               149                93 
+  25 to 34 years..........               643               729               510               698               481               601               482 
+  35 to 44 years..........               606               862               650               848               570               805               653 
+  45 to 54 years..........               459               625               430               616               427               561               463 
+  55 to 64 years..........               390               339               325               383               362               332               344 
+65 years and over.........               561               592               564               474               339               333               330 
+  65 to 74 years..........               325               361               348               284               220               216               216 
+  75 years and over.......               236               231               216               189               119               116               114 
+                                                                                                                                                         
+Mean age of householder...              47.3              45.7              48.0              45.7              46.4              44.6              46.3 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                              11
+(Numbers in thousands.  Households as of March of the following year)
+
+                                     $32,500           $35,000           $37,500           $40,000           $42,500           $45,000           $47,500 
+                                          TO                TO                TO                TO                TO                TO                TO 
+                                     $34,999           $37,499           $39,999           $42,499           $44,999           $47,499           $49,999 
+                                                                                                                                                         
+SIZE OF HOUSEHOLD                                                                                                                                        
+                                                                                                                                                         
+One person................               671               958               578               679               393               465               332 
+Two people................             1,095             1,120               975             1,151               797               967               926 
+Three people..............               415               545               427               522               440               589               477 
+Four people...............               427               417               392               494               368               472               393 
+Five people...............               143               235               164               220               202               195               143 
+Six people................                62                85                46                82                59                53                57 
+Seven people or more......                25                40                39                43                40                41                36 
+                                                                                                                                                         
+Mean size of household....              2.56              2.56              2.63              2.72              2.87              2.81              2.81 
+                                                                                                                                                         
+NUMBER OF EARNERS                                                                                                                                        
+                                                                                                                                                         
+No earners................               400               362               365               285               213               168               199 
+One earner................             1,276             1,689             1,109             1,363               738             1,027               745 
+Two earners and more......             1,162             1,350             1,147             1,543             1,347             1,587             1,421 
+  2 earners...............               990             1,212               990             1,322             1,104             1,327             1,163 
+  3 earners...............               152               122               130               187               207               214               205 
+  4 earners or more.......                20                16                28                34                36                46                53 
+                                                                                                                                                         
+Mean number of earners....              1.38              1.38              1.42              1.52              1.67              1.67              1.70 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                              12
+(Numbers in thousands.  Households as of March of the following year)
+
+                                     $32,500           $35,000           $37,500           $40,000           $42,500           $45,000           $47,500 
+                                          TO                TO                TO                TO                TO                TO                TO 
+                                     $34,999           $37,499           $39,999           $42,499           $44,999           $47,499           $49,999 
+                                                                                                                                                         
+WORK EXPERIENCE OF                                                                                                                                       
+HOUSEHOLDER                                                                                                                                              
+                                                                                                                                                         
+     Total................             2,839             3,402             2,621             3,192             2,298             2,782             2,365 
+Worked....................             2,121             2,694             1,984             2,585             1,851             2,366             1,941 
+  Worked at f-t jobs......             1,831             2,403             1,716             2,308             1,622             2,132             1,759 
+    50 weeks or more......             1,534             2,072             1,444             2,036             1,390             1,843             1,540 
+    27 to 49 weeks........               213               210               182               194               172               231               146 
+    26 weeks or less......                84               122                90                78                61                58                72 
+  Worked at p-t jobs......               290               291               267               278               229               233               182 
+    50 weeks or more......               132               166               113               118               125               131                69 
+    27 to 49 weeks........                69                63                74                80                63                57                70 
+    26 weeks or less......                88                62                79                79                42                46                43 
+Did not work..............               718               707               638               606               447               416               425 
+                                                                                                                                                         
+YEARS OF SCHOOL COMPLETED                                                                                                                                
+ BY HOUSEHOLDER                                                                                                                                          
+                                                                                                                                                         
+ Total, 25 yrs & over.....             2,661             3,147             2,477             3,019             2,180             2,632             2,272 
+Less than 9th grade.......               139               168               121               110               100               107                61 
+9th to 11th grade.........               256               290               212               265               165               182               174 
+High School graduate                                                                                                                                     
+(includes equivalency)....               981             1,128               865               989               738               977               837 
+Some college, no degree...               573               637               567               669               450               544               464 
+Associate Degree..........               223               282               211               265               206               215               198 
+Bachelor's Degree or more.               488               642               502               721               521               607               538 
+  Bachelor's Degree.......               345               485               328               487               358               426               381 
+  Master's Degree.........               113               114               122               185               116               142               126 
+  Professional Degree.....                13                25                25                29                23                12                18 
+  Doctorate Degree........                18                18                27                20                24                27                13 
+                                                                                                                                                         
+TENURE                                                                                                                                                   
+                                                                                                                                                         
+Owner occupied............             1,844             2,171             1,816             2,100             1,624             1,945             1,798 
+Renter occupied...........               955             1,182               775             1,042               640               813               537 
+Occupier paid no cash                                                                                                                                    
+rent......................                40                48                30                49                34                23                30 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                              13
+(Numbers in thousands.  Households as of March of the following year)
+
+                                     $50,000           $52,500           $55,000           $57,500           $60,000           $62,500           $65,000 
+                                          TO                TO                TO                TO                TO                TO                TO 
+                                     $52,499           $54,999           $57,499           $59,999           $62,499           $64,999           $67,499 
+                                                                                                                                                         
+ALL RACES                                                                                                                                                
+ALL HOUSEHOLDS.......                  2,786             2,137             2,241             1,844             2,308             1,609             1,790 
+                                                                                                                                                         
+ TYPE OF RESIDENCE                                                                                                                                       
+                                                                                                                                                         
+Inside metro areas........             2,209             1,690             1,777             1,473             1,898             1,308             1,491 
+  Inside central cities...               768               623               616               476               601               390               462 
+    One million or more...               498               405               374               320               365               239               291 
+    Under one million.....               270               218               242               156               236               152               170 
+  Outside central cities..             1,441             1,067             1,161               997             1,297               918             1,029 
+    One million or more...             1,018               710               793               708               896               639               728 
+    Under one million.....               424               357               368               289               402               279               301 
+Outside metro areas.......               577               446               464               371               410               301               299 
+                                                                                                                                                         
+REGIONS/DIVISIONS                                                                                                                                        
+Northeast.................               520               371               338               371               449               342               332 
+ New England..............               149               106                84               105               121               106                90 
+ Middle Atlantic..........               371               265               254               266               328               235               242 
+Midwest...................               770               615               559               479               519               422               496 
+ East North Central.......               514               426               384               311               375               305               373 
+ West North Central.......               256               189               175               168               144               116               123 
+South.....................               924               670               846               604               802               517               576 
+ South Atlantic...........               509               364               478               320               437               310               302 
+ East South Central.......               154               109               167                98               122                90                88 
+ West South Central.......               262               197               201               185               242               117               187 
+West......................               571               481               498               390               539               328               386 
+ Mountain.................               171               132               134               122               142               106               118 
+ Pacific..................               400               349               364               269               396               223               267 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                              14
+(Numbers in thousands.  Households as of March of the following year)
+
+                                     $50,000           $52,500           $55,000           $57,500           $60,000           $62,500           $65,000 
+                                          TO                TO                TO                TO                TO                TO                TO 
+                                     $52,499           $54,999           $57,499           $59,999           $62,499           $64,999           $67,499 
+                                                                                                                                                         
+TYPE OF HOUSEHOLD                                                                                                                                        
+Family households.........             2,150             1,675             1,831             1,525             1,831             1,358             1,460 
+ Married-couple families..             1,765             1,362             1,550             1,267             1,562             1,170             1,287 
+ Male householder, nsp....               126               106               100                96                86                74                65 
+ Female householder, nsp..               259               207               181               163               184               115               108 
+Nonfamily households......               636               462               410               319               477               250               330 
+ Male householder.........               383               274               203               201               306               135               207 
+   Living alone...........               304               161               144               114               180                96               111 
+ Female householder.......               253               187               207               119               171               115               123 
+   Living alone...........               184               134               144                76               100                66                77 
+                                                                                                                                                         
+AGE OF HOUSEHOLDER                                                                                                                                       
+                                                                                                                                                         
+Under 65 years............             2,501             1,891             1,980             1,670             2,156             1,448             1,606 
+  15 to 24 years..........               104                56                88                75                70                42                33 
+  25 to 34 years..........               698               472               453               386               534               330               381 
+  35 to 44 years..........               746               567               627               566               779               434               522 
+  45 to 54 years..........               600               498               535               418               483               437               440 
+  55 to 64 years..........               353               299               277               226               290               205               230 
+65 years and over.........               286               246               261               174               152               161               183 
+  65 to 74 years..........               202               160               157               113                98               109               134 
+  75 years and over.......                84                86               104                60                54                51                50 
+                                                                                                                                                         
+Mean age of householder...              44.3              45.5              45.5              44.4              43.5              45.4              45.4 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                              15
+(Numbers in thousands.  Households as of March of the following year)
+
+                                     $50,000           $52,500           $55,000           $57,500           $60,000           $62,500           $65,000 
+                                          TO                TO                TO                TO                TO                TO                TO 
+                                     $52,499           $54,999           $57,499           $59,999           $62,499           $64,999           $67,499 
+                                                                                                                                                         
+SIZE OF HOUSEHOLD                                                                                                                                        
+                                                                                                                                                         
+One person................               487               295               288               190               280               162               188 
+Two people................               893               816               839               630               779               598               645 
+Three people..............               591               410               436               437               469               340               361 
+Four people...............               499               359               378               342               483               319               376 
+Five people...............               205               171               225               159               207               145               151 
+Six people................                77                58                48                53                52                31                47 
+Seven people or more......                34                27                27                33                38                14                22 
+                                                                                                                                                         
+Mean size of household....              2.86              2.90              2.90              3.03              3.02              2.97              3.00 
+                                                                                                                                                         
+NUMBER OF EARNERS                                                                                                                                        
+                                                                                                                                                         
+No earners................               159               134               129                76                84                67                81 
+One earner................               989               629               659               433               662               365               412 
+Two earners and more......             1,638             1,373             1,453             1,335             1,561             1,176             1,297 
+  2 earners...............             1,304             1,094             1,160             1,044             1,235               932             1,029 
+  3 earners...............               295               224               222               240               243               195               226 
+  4 earners or more.......                40                55                71                51                82                50                42 
+                                                                                                                                                         
+Mean number of earners....              1.72              1.80              1.80              1.92              1.87              1.93              1.91 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                              16
+(Numbers in thousands.  Households as of March of the following year)
+
+                                     $50,000           $52,500           $55,000           $57,500           $60,000           $62,500           $65,000 
+                                          TO                TO                TO                TO                TO                TO                TO 
+                                     $52,499           $54,999           $57,499           $59,999           $62,499           $64,999           $67,499 
+                                                                                                                                                         
+WORK EXPERIENCE OF                                                                                                                                       
+HOUSEHOLDER                                                                                                                                              
+                                                                                                                                                         
+     Total................             2,786             2,137             2,241             1,844             2,308             1,609             1,790 
+Worked....................             2,382             1,835             1,932             1,640             2,070             1,438             1,602 
+  Worked at f-t jobs......             2,137             1,664             1,742             1,469             1,920             1,324             1,486 
+    50 weeks or more......             1,898             1,460             1,578             1,312             1,749             1,186             1,347 
+    27 to 49 weeks........               154               127               114               119               112               113                94 
+    26 weeks or less......                85                77                50                38                59                25                45 
+  Worked at p-t jobs......               245               171               190               171               150               114               117 
+    50 weeks or more......               134                77               105                90                93                54                47 
+    27 to 49 weeks........                40                51                46                46                21                16                41 
+    26 weeks or less......                70                43                39                35                36                44                28 
+Did not work..............               404               302               309               204               238               171               188 
+                                                                                                                                                         
+YEARS OF SCHOOL COMPLETED                                                                                                                                
+ BY HOUSEHOLDER                                                                                                                                          
+                                                                                                                                                         
+ Total, 25 yrs & over.....             2,682             2,081             2,153             1,769             2,238             1,566             1,757 
+Less than 9th grade.......                72                63                44                47                36                32                28 
+9th to 11th grade.........               194               109               133                64               128                87                45 
+High School graduate                                                                                                                                     
+(includes equivalency)....               847               720               669               580               696               434               534 
+Some college, no degree...               535               409               446               360               439               287               384 
+Associate Degree..........               283               195               226               197               269               151               165 
+Bachelor's Degree or more.               752               585               634               521               669               575               601 
+  Bachelor's Degree.......               531               402               441               344               462               378               396 
+  Master's Degree.........               159               138               117               134               151               132               137 
+  Professional Degree.....                25                19                41                19                22                34                50 
+  Doctorate Degree........                37                27                35                23                35                32                19 
+                                                                                                                                                         
+TENURE                                                                                                                                                   
+                                                                                                                                                         
+Owner occupied............             1,999             1,602             1,701             1,418             1,765             1,263             1,485 
+Renter occupied...........               758               521               522               397               526               328               291 
+Occupier paid no cash                                                                                                                                    
+rent......................                29                14                18                29                17                18                13 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                              17
+(Numbers in thousands.  Households as of March of the following year)
+
+                                     $67,500           $70,000           $72,500           $75,000           $77,500           $80,000           $82,500 
+                                          TO                TO                TO                TO                TO                TO                TO 
+                                     $69,999           $72,499           $74,999           $77,499           $79,999           $82,499           $84,999 
+                                                                                                                                                         
+ALL RACES                                                                                                                                                
+ALL HOUSEHOLDS.......                  1,490             1,762             1,305             1,395             1,071             1,371             1,029 
+                                                                                                                                                         
+ TYPE OF RESIDENCE                                                                                                                                       
+                                                                                                                                                         
+Inside metro areas........             1,229             1,508             1,059             1,207               908             1,200               875 
+  Inside central cities...               414               477               307               364               249               359               257 
+    One million or more...               265               297               215               243               139               251               169 
+    Under one million.....               148               180                93               121               110               107                88 
+  Outside central cities..               816             1,031               752               843               659               841               618 
+    One million or more...               552               732               536               619               457               618               476 
+    Under one million.....               263               299               216               224               202               223               143 
+Outside metro areas.......               261               255               246               188               163               171               154 
+                                                                                                                                                         
+REGIONS/DIVISIONS                                                                                                                                        
+Northeast.................               251               328               281               297               206               279               233 
+ New England..............                72                82                71                98                44                70                68 
+ Middle Atlantic..........               180               246               209               200               162               209               165 
+Midwest...................               371               433               369               302               285               329               247 
+ East North Central.......               247               322               260               191               205               225               186 
+ West North Central.......               124               111               108               111                80               104                61 
+South.....................               516               594               424               447               360               457               324 
+ South Atlantic...........               267               340               231               250               169               243               188 
+ East South Central.......                91                93                82                62                65                61                49 
+ West South Central.......               159               161               111               134               127               153                87 
+West......................               352               407               232               349               220               306               225 
+ Mountain.................                98               110                65                91                74                81                56 
+ Pacific..................               254               298               167               258               146               225               169 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                              18
+(Numbers in thousands.  Households as of March of the following year)
+
+                                     $67,500           $70,000           $72,500           $75,000           $77,500           $80,000           $82,500 
+                                          TO                TO                TO                TO                TO                TO                TO 
+                                     $69,999           $72,499           $74,999           $77,499           $79,999           $82,499           $84,999 
+                                                                                                                                                         
+TYPE OF HOUSEHOLD                                                                                                                                        
+Family households.........             1,245             1,446             1,154             1,130               918             1,129               899 
+ Married-couple families..             1,077             1,253             1,011             1,003               826             1,019               827 
+ Male householder, nsp....                51                77                63                53                37                49                24 
+ Female householder, nsp..               118               116                80                74                56                61                48 
+Nonfamily households......               245               317               151               265               152               241               130 
+ Male householder.........               141               190                89               154                93               129                70 
+   Living alone...........                79               105                44                94                38                77                22 
+ Female householder.......               104               127                61               111                60               113                60 
+   Living alone...........                68                72                39                65                31                67                27 
+                                                                                                                                                         
+AGE OF HOUSEHOLDER                                                                                                                                       
+                                                                                                                                                         
+Under 65 years............             1,320             1,650             1,164             1,280             1,001             1,287               949 
+  15 to 24 years..........                31                32                19                20                23                20                15 
+  25 to 34 years..........               282               392               263               281               184               272               183 
+  35 to 44 years..........               412               511               365               442               317               439               338 
+  45 to 54 years..........               359               514               336               346               295               384               274 
+  55 to 64 years..........               236               200               180               191               182               173               140 
+65 years and over.........               170               113               142               114                69                83                79 
+  65 to 74 years..........               101                73               110                80                49                58                57 
+  75 years and over.......                68                39                32                34                20                25                23 
+                                                                                                                                                         
+Mean age of householder...              46.8              44.4              46.1              45.1              45.5              44.6              45.5 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                              19
+(Numbers in thousands.  Households as of March of the following year)
+
+                                     $67,500           $70,000           $72,500           $75,000           $77,500           $80,000           $82,500 
+                                          TO                TO                TO                TO                TO                TO                TO 
+                                     $69,999           $72,499           $74,999           $77,499           $79,999           $82,499           $84,999 
+                                                                                                                                                         
+SIZE OF HOUSEHOLD                                                                                                                                        
+                                                                                                                                                         
+One person................               147               177                82               159                69               144                49 
+Two people................               559               651               462               479               354               450               335 
+Three people..............               309               322               296               271               254               299               235 
+Four people...............               281               407               281               304               214               280               250 
+Five people...............               146               144               128               118               120               130               109 
+Six people................                29                41                37                43                38                56                36 
+Seven people or more......                19                21                20                20                21                11                15 
+                                                                                                                                                         
+Mean size of household....              3.01              3.03              3.16              3.03              3.24              3.10              3.30 
+                                                                                                                                                         
+NUMBER OF EARNERS                                                                                                                                        
+                                                                                                                                                         
+No earners................                67                57                40                47                32                24                34 
+One earner................               310               413               249               370               197               354               158 
+Two earners and more......             1,114             1,293             1,017               977               841               993               838 
+  2 earners...............               858             1,014               756               756               604               737               590 
+  3 earners...............               193               201               182               161               149               208               148 
+  4 earners or more.......                62                77                78                61                88                48               100 
+                                                                                                                                                         
+Mean number of earners....              1.99              1.97              2.08              1.93              2.14              1.99              2.21 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                              20
+(Numbers in thousands.  Households as of March of the following year)
+
+                                     $67,500           $70,000           $72,500           $75,000           $77,500           $80,000           $82,500 
+                                          TO                TO                TO                TO                TO                TO                TO 
+                                     $69,999           $72,499           $74,999           $77,499           $79,999           $82,499           $84,999 
+                                                                                                                                                         
+WORK EXPERIENCE OF                                                                                                                                       
+HOUSEHOLDER                                                                                                                                              
+                                                                                                                                                         
+     Total................             1,490             1,762             1,305             1,395             1,071             1,371             1,029 
+Worked....................             1,298             1,590             1,151             1,239               952             1,244               924 
+  Worked at f-t jobs......             1,179             1,464             1,034             1,144               901             1,166               848 
+    50 weeks or more......             1,048             1,334               940             1,037               784             1,064               772 
+    27 to 49 weeks........               107               104                59                83                88                82                55 
+    26 weeks or less......                23                26                35                24                29                19                22 
+  Worked at p-t jobs......               119               126               116                95                50                78                76 
+    50 weeks or more......                42                65                54                59                30                46                37 
+    27 to 49 weeks........                36                39                34                28                10                21                24 
+    26 weeks or less......                40                21                28                 8                11                11                14 
+Did not work..............               192               172               155               156               119               126               105 
+                                                                                                                                                         
+YEARS OF SCHOOL COMPLETED                                                                                                                                
+ BY HOUSEHOLDER                                                                                                                                          
+                                                                                                                                                         
+ Total, 25 yrs & over.....             1,459             1,730             1,286             1,375             1,048             1,351             1,014 
+Less than 9th grade.......                34                22                24                 6                 9                18                15 
+9th to 11th grade.........                57                42                31                35                41                26                39 
+High School graduate                                                                                                                                     
+(includes equivalency)....               384               490               376               337               295               323               223 
+Some college, no degree...               342               381               268               254               219               265               207 
+Associate Degree..........               120               139               129               146               115               158                97 
+Bachelor's Degree or more.               522               656               458               598               370               559               433 
+  Bachelor's Degree.......               353               445               318               403               239               354               274 
+  Master's Degree.........               108               151               111               147                81               142               118 
+  Professional Degree.....                23                30                19                14                23                33                24 
+  Doctorate Degree........                37                30                10                34                28                30                17 
+                                                                                                                                                         
+TENURE                                                                                                                                                   
+                                                                                                                                                         
+Owner occupied............             1,194             1,428             1,098             1,108               899             1,112               882 
+Renter occupied...........               275               327               192               268               163               252               141 
+Occupier paid no cash                                                                                                                                    
+rent......................                21                 8                16                19                 9                 7                 5 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                              21
+(Numbers in thousands.  Households as of March of the following year)
+
+                                     $85,000           $87,500           $90,000           $92,500           $95,000           $97,500          $100,000 
+                                          TO                TO                TO                TO                TO                TO               and 
+                                     $87,499           $89,999           $92,499           $94,999           $97,499           $99,999              over 
+                                                                                                                                                         
+ALL RACES                                                                                                                                                
+ALL HOUSEHOLDS.......                  1,101               796               976               739               813               644            10,926 
+                                                                                                                                                         
+ TYPE OF RESIDENCE                                                                                                                                       
+                                                                                                                                                         
+Inside metro areas........               974               697               836               656               711               573            10,012 
+  Inside central cities...               308               177               263               192               236               177             2,788 
+    One million or more...               207               107               195               106               144               124             1,928 
+    Under one million.....               101                70                67                85                92                53               859 
+  Outside central cities..               665               520               573               464               475               396             7,224 
+    One million or more...               448               376               422               342               344               319             5,762 
+    Under one million.....               217               144               152               123               131                77             1,462 
+Outside metro areas.......               128                99               140                83               102                71               914 
+                                                                                                                                                         
+REGIONS/DIVISIONS                                                                                                                                        
+Northeast.................               179               132               234               172               170               146             2,532 
+ New England..............                56                48                65                43                42                50               712 
+ Middle Atlantic..........               123                84               170               129               127                97             1,820 
+Midwest...................               284               209               250               194               176               143             2,422 
+ East North Central.......               194               145               193               135               118                92             1,784 
+ West North Central.......                90                64                57                59                57                51               638 
+South.....................               354               267               281               221               262               195             3,323 
+ South Atlantic...........               195               146               155               110               119               105             1,913 
+ East South Central.......                40                36                34                43                56                34               472 
+ West South Central.......               120                85                92                67                87                56               938 
+West......................               283               188               211               152               206               160             2,648 
+ Mountain.................                81                49                58                36                43                48               609 
+ Pacific..................               203               139               152               115               163               112             2,039 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                              22
+(Numbers in thousands.  Households as of March of the following year)
+
+                                     $85,000           $87,500           $90,000           $92,500           $95,000           $97,500          $100,000 
+                                          TO                TO                TO                TO                TO                TO               and 
+                                     $87,499           $89,999           $92,499           $94,999           $97,499           $99,999              over 
+                                                                                                                                                         
+TYPE OF HOUSEHOLD                                                                                                                                        
+Family households.........               926               685               852               660               717               573             9,702 
+ Married-couple families..               839               629               779               616               664               537             9,077 
+ Male householder, nsp....                34                15                33                19                36                20               293 
+ Female householder, nsp..                52                42                40                26                17                17               333 
+Nonfamily households......               176               111               124                79                96                71             1,224 
+ Male householder.........               108                67                67                34                76                52               816 
+   Living alone...........                51                26                32                15                42                28               408 
+ Female householder.......                67                43                57                45                20                19               408 
+   Living alone...........                28                25                23                14                 8                 7               186 
+                                                                                                                                                         
+AGE OF HOUSEHOLDER                                                                                                                                       
+                                                                                                                                                         
+Under 65 years............               996               692               909               651               763               575             9,930 
+  15 to 24 years..........                26                14                 8                 4                13                 9               123 
+  25 to 34 years..........               204               114               150               117               107               101             1,260 
+  35 to 44 years..........               296               227               289               207               260               187             3,049 
+  45 to 54 years..........               290               219               265               203               267               180             3,663 
+  55 to 64 years..........               180               118               195               120               117                99             1,835 
+65 years and over.........               106               104                67                88                50                68               995 
+  65 to 74 years..........                72                80                49                50                42                51               678 
+  75 years and over.......                34                25                18                38                 8                17               317 
+                                                                                                                                                         
+Mean age of householder...              46.4              47.8              46.9              47.5              45.8              47.2              47.8 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                              23
+(Numbers in thousands.  Households as of March of the following year)
+
+                                     $85,000           $87,500           $90,000           $92,500           $95,000           $97,500          $100,000 
+                                          TO                TO                TO                TO                TO                TO               and 
+                                     $87,499           $89,999           $92,499           $94,999           $97,499           $99,999              over 
+                                                                                                                                                         
+SIZE OF HOUSEHOLD                                                                                                                                        
+                                                                                                                                                         
+One person................                79                51                55                29                50                35               594 
+Two people................               426               284               328               218               244               209             3,788 
+Three people..............               248               188               238               196               182               135             2,297 
+Four people...............               220               189               223               180               183               161             2,578 
+Five people...............                73                58                92                88               111                77             1,113 
+Six people................                46                21                22                23                28                17               360 
+Seven people or more......                 9                 4                18                 6                14                11               196 
+                                                                                                                                                         
+Mean size of household....              3.03              3.10              3.22              3.28              3.33              3.33              3.25 
+                                                                                                                                                         
+NUMBER OF EARNERS                                                                                                                                        
+                                                                                                                                                         
+No earners................                38                27                29                33                 7                29               330 
+One earner................               212               117               205               108               148                78             2,050 
+Two earners and more......               852               652               741               598               659               537             8,545 
+  2 earners...............               619               459               537               383               435               361             5,848 
+  3 earners...............               170               150               144               149               160               119             1,763 
+  4 earners or more.......                63                43                60                65                63                57               933 
+                                                                                                                                                         
+Mean number of earners....              2.09              2.18              2.08              2.22              2.24              2.26              2.18 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                              24
+(Numbers in thousands.  Households as of March of the following year)
+
+                                     $85,000           $87,500           $90,000           $92,500           $95,000           $97,500          $100,000 
+                                          TO                TO                TO                TO                TO                TO               and 
+                                     $87,499           $89,999           $92,499           $94,999           $97,499           $99,999              over 
+                                                                                                                                                         
+WORK EXPERIENCE OF                                                                                                                                       
+HOUSEHOLDER                                                                                                                                              
+                                                                                                                                                         
+     Total................             1,101               796               976               739               813               644            10,926 
+Worked....................               989               708               891               642               766               573             9,869 
+  Worked at f-t jobs......               926               655               831               580               710               537             9,046 
+    50 weeks or more......               852               611               751               541               648               482             8,296 
+    27 to 49 weeks........                67                39                60                28                46                50               582 
+    26 weeks or less......                 7                 4                20                12                17                 4               167 
+  Worked at p-t jobs......                63                53                60                62                56                37               823 
+    50 weeks or more......                44                27                23                31                23                17               465 
+    27 to 49 weeks........                 9                11                14                13                 9                 7               209 
+    26 weeks or less......                10                15                23                19                24                13               149 
+Did not work..............               112                88                85                97                47                70             1,056 
+                                                                                                                                                         
+YEARS OF SCHOOL COMPLETED                                                                                                                                
+ BY HOUSEHOLDER                                                                                                                                          
+                                                                                                                                                         
+ Total, 25 yrs & over.....             1,076               782               967               735               800               635            10,802 
+Less than 9th grade.......                 9                11                19                 6                 8                 3               104 
+9th to 11th grade.........                35                23                22                25                18                23               177 
+High School graduate                                                                                                                                     
+(includes equivalency)....               258               176               211               200               210               114             1,450 
+Some college, no degree...               189               145               200               108               125               129             1,539 
+Associate Degree..........                92                85                77                66                47                42               824 
+Bachelor's Degree or more.               493               342               438               330               392               324             6,707 
+  Bachelor's Degree.......               311               226               294               212               244               201             3,684 
+  Master's Degree.........               152                78               100                76                82                85             1,723 
+  Professional Degree.....                16                 6                24                17                26                18               771 
+  Doctorate Degree........                14                32                20                25                41                20               528 
+                                                                                                                                                         
+TENURE                                                                                                                                                   
+                                                                                                                                                         
+Owner occupied............               930               697               851               644               698               562             9,790 
+Renter occupied...........               157                93               118                93               115                78             1,071 
+Occupier paid no cash                                                                                                                                    
+rent......................                14                 6                 7                 2                 0                 4                65 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                              25
+(Numbers in thousands.  Households as of March of the following year)
+
+                                       MEDIAN INCOME                          MEAN INCOME                 GINI RATIO                                          
+                                                        STANDARD                              STANDARD         STANDARD      INCOME PER HOUSEHOLD MEMBER      
+                                    VALUE ($)          ERROR ($)          VALUE ($)          ERROR ($)  RATIO     ERROR          VALUE ($)     STANDARD ERROR 
+                                                                                                                                                              
+ALL RACES                                                                                                                                                     
+ALL HOUSEHOLDS.......                  38,885                230             51,855                280   .446     .0038             19,836                121 
+                                                                                                                                                              
+ TYPE OF RESIDENCE                                                                                                                                            
+                                                                                                                                                              
+Inside metro areas........             40,983                215             54,725                330   .446     .0042             20,815                136 
+  Inside central cities...             33,151                388             46,467                460   .470     .0069             18,455                210 
+    One million or more...             33,559                500             47,529                595   .476     .0086             18,685                273 
+    Under one million.....             32,488                535             44,593                716   .457     .0115             18,038                346 
+  Outside central cities..             46,402                311             59,901                449   .426     .0053             22,195                188 
+    One million or more...             49,940                395             63,998                571   .419     .0063             23,487                242 
+    Under one million.....             39,428                564             51,079                693   .429     .0095             19,326                309 
+Outside metro areas.......             32,022                383             40,131                547   .419     .0101             15,719                258 
+                                                                                                                                                              
+REGIONS/DIVISIONS                                                                                                                                             
+Northeast.................             40,634                469             55,041                624   .456     .0078             21,104                281 
+ New England..............             42,434              1,077             56,275              1,170   .440     .0150             22,057                560 
+ Middle Atlantic..........             40,100                565             54,596                737   .462     .0092             20,770                329 
+Midwest...................             40,609                365             52,430                592   .432     .0078             20,296                267 
+ East North Central.......             41,140                432             53,464                746   .436     .0094             20,489                334 
+ West North Central.......             39,317                705             50,057                929   .421     .0141             19,837                454 
+South.....................             35,797                304             48,284                467   .451     .0066             18,830                208 
+ South Atlantic...........             37,333                468             49,967                646   .447     .0091             19,901                304 
+ East South Central.......             34,081                825             45,492              1,087   .453     .0161             17,536                493 
+ West South Central.......             34,186                580             46,986                856   .456     .0120             17,812                377 
+West......................             40,983                403             54,274                632   .439     .0084             19,844                272 
+ Mountain.................             39,423                848             51,048              1,125   .426     .0158             18,844                498 
+ Pacific..................             41,616                490             55,554                761   .444     .0099             20,236                329 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                              26
+(Numbers in thousands.  Households as of March of the following year)
+
+                                       MEDIAN INCOME                          MEAN INCOME                 GINI RATIO                                          
+                                                        STANDARD                              STANDARD         STANDARD      INCOME PER HOUSEHOLD MEMBER      
+                                    VALUE ($)          ERROR ($)          VALUE ($)          ERROR ($)  RATIO     ERROR          VALUE ($)     STANDARD ERROR 
+                                                                                                                                                              
+TYPE OF HOUSEHOLD                                                                                                                                             
+Family households.........             47,469                249             60,406                371   .411     .0045             18,688                129 
+ Married-couple families..             54,276                322             68,010                452   .381     .0051             20,932                159 
+ Male householder, nsp....             39,414                993             48,306              1,053   .386     .0188             15,349                427 
+ Female householder, nsp..             24,393                398             31,608                496   .441     .0107              9,918                180 
+Nonfamily households......             23,441                285             32,938                319   .468     .0070             26,419                337 
+ Male householder.........             30,414                340             40,127                565   .449     .0104             29,796                560 
+   Living alone...........             26,021                334             34,572                626   .453     .0124             34,572                861 
+ Female householder.......             18,615                281             27,190                342   .463     .0094             23,303                405 
+   Living alone...........             16,406                236             23,362                321   .443     .0101             23,362                462 
+                                                                                                                                                              
+AGE OF HOUSEHOLDER                                                                                                                                            
+                                                                                                                                                              
+Under 65 years............             44,697                274             56,688                327   .423     .0042             19,982                127 
+  15 to 24 years..........             23,564                445             30,947                995   .451     .0184             12,659                451 
+  25 to 34 years..........             40,069                423             47,960                540   .392     .0085             16,713                227 
+  35 to 44 years..........             48,451                444             60,103                616   .401     .0077             18,379                222 
+  45 to 54 years..........             54,148                534             67,293                729   .405     .0082             24,034                314 
+  55 to 64 years..........             43,167                601             57,952                865   .453     .0103             25,777                462 
+65 years and over.........             21,729                240             33,432                468   .480     .0094             18,942                311 
+  65 to 74 years..........             26,112                399             38,580                691   .471     .0124             20,064                430 
+  75 years and over.......             17,885                283             27,700                609   .471     .0144             17,430                451 
+                                                                                                                                                              
+Mean age of householder...                (X)                (X)                (X)                (X)   -.94     .0028                (X)                (X) 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                              27
+(Numbers in thousands.  Households as of March of the following year)
+
+                                       MEDIAN INCOME                          MEAN INCOME                 GINI RATIO                                          
+                                                        STANDARD                              STANDARD         STANDARD      INCOME PER HOUSEHOLD MEMBER      
+                                    VALUE ($)          ERROR ($)          VALUE ($)          ERROR ($)  RATIO     ERROR          VALUE ($)     STANDARD ERROR 
+                                                                                                                                                              
+SIZE OF HOUSEHOLD                                                                                                                                             
+                                                                                                                                                              
+One person................             20,154                221             27,982                324   .459     .0080             27,982                440 
+Two people................             41,512                301             54,930                515   .423     .0066             26,955                300 
+Three people..............             49,069                518             60,356                708   .401     .0089             19,508                275 
+Four people...............             55,886                607             67,691                770   .376     .0095             16,609                232 
+Five people...............             53,706                911             66,523              1,336   .396     .0142             13,057                306 
+Six people................             49,080              1,500             63,626              2,125   .420     .0246             10,399                410 
+Seven people or more......             46,646              1,676             62,922              3,063   .420     .0343              7,841                445 
+                                                                                                                                                              
+Mean size of household....                (X)                (X)                (X)                (X)   -.94     .0111                (X)                (X) 
+                                                                                                                                                              
+NUMBER OF EARNERS                                                                                                                                             
+                                                                                                                                                              
+No earners................             14,442                147             20,946                242   .467     .0093             12,796                187 
+One earner................             31,162                183             42,498                461   .438     .0071             19,435                237 
+Two earners and more......             60,787                258             73,323                453   .335     .0054             21,593                160 
+  2 earners...............             57,388                319             69,238                486   .340     .0061             22,339                191 
+  3 earners...............             70,012                816             84,455              1,326   .305     .0135             20,232                398 
+  4 earners or more.......             86,676              1,640            100,147              1,953   .257     .0227             18,454                522 
+                                                                                                                                                              
+Mean number of earners....                (X)                (X)                (X)                (X)   -.97     .0192                (X)                (X) 
+HINC-01. Selected Characteristics of Households, by Total Money Income in 1998 .                                                                              28
+(Numbers in thousands.  Households as of March of the following year)
+
+                                       MEDIAN INCOME                          MEAN INCOME                 GINI RATIO                                          
+                                                        STANDARD                              STANDARD         STANDARD      INCOME PER HOUSEHOLD MEMBER      
+                                    VALUE ($)          ERROR ($)          VALUE ($)          ERROR ($)  RATIO     ERROR          VALUE ($)     STANDARD ERROR 
+                                                                                                                                                              
+WORK EXPERIENCE OF                                                                                                                                            
+HOUSEHOLDER                                                                                                                                                   
+                                                                                                                                                              
+     Total................             38,885                230             51,855                280   .446     .0038             19,836                121 
+Worked....................             48,179                263             60,766                353   .397     .0044             21,666                140 
+  Worked at f-t jobs......             50,562                223             63,102                383   .382     .0047             22,259                153 
+    50 weeks or more......             53,033                301             66,088                420   .366     .0051             23,272                171 
+    27 to 49 weeks........             39,041                808             52,071              1,211   .418     .0157             18,441                501 
+    26 weeks or less......             24,525              1,140             34,993              1,078   .489     .0212             12,608                458 
+  Worked at p-t jobs......             31,470                618             45,266                857   .482     .0129             17,381                384 
+    50 weeks or more......             32,276                852             47,585              1,244   .471     .0182             18,411                568 
+    27 to 49 weeks........             33,945              1,312             47,049              1,791   .476     .0263             18,308                824 
+    26 weeks or less......             27,249              1,194             39,184              1,540   .507     .0250             14,656                665 
+Did not work..............             19,093                193             29,471                362   .500     .0079             13,799                191 
+                                                                                                                                                              
+YEARS OF SCHOOL COMPLETED                                                                                                                                     
+ BY HOUSEHOLDER                                                                                                                                               
+                                                                                                                                                              
+ Total, 25 yrs & over.....             40,296                194             53,084                290   .441     .0038             20,229                122 
+Less than 9th grade.......             16,154                347             23,501                610   .459     .0167              9,043                265 
+9th to 11th grade.........             20,724                336             28,234                479   .445     .0126             10,706                219 
+High School graduate                                                                                                                                          
+(includes equivalency)....             34,373                334             42,352                370   .406     .0067             16,173                169 
+Some college, no degree...             41,658                374             51,220                597   .394     .0087             19,451                275 
+Associate Degree..........             48,604                818             57,317              1,066   .383     .0135             20,865                472 
+Bachelor's Degree or more.             66,474                499             83,096                755   .368     .0072             32,073                358 
+  Bachelor's Degree.......             62,188                549             75,213                796   .367     .0089             28,945                390 
+  Master's Degree.........             71,086                955             87,497              1,692   .354     .0148             34,329                837 
+  Professional Degree.....             95,309              3,560            127,499              4,787   .222     .0256             47,456              2,236 
+  Doctorate Degree........             84,100              3,491            107,847              3,700   .323     .0300             42,023              1,956 
+                                                                                                                                                              
+TENURE                                                                                                                                                        
+                                                                                                                                                              
+Owner occupied............             47,920                274             61,035                382   .415     .0045             22,417                156 
+Renter occupied...........             25,395                203             33,447                303   .447     .0067             13,969                149 
+Occupier paid no cash                                                                                                                                         
+rent......................             23,164              1,133             34,600              1,868   .498     .0337             14,099                868
+
+
+Source: U.S. Census Bureau
+Contact: Housing and Household Economic Statistics Information Staff at (301)763-3242
+Last revised: July 14, 2004
