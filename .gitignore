@@ -13,6 +13,8 @@ figure*.pdf
 
 # 如果 _emis_code/ 还有子目录的 CSV 也要保留，加上：
 !_emis_code/**/*.csv
+!_emis_code/**/*.png
+!_emis_code/**/*.pdf
 
 
 _emis_code/emis_prediction_1_sse50.py
